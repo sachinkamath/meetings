@@ -1,0 +1,7 @@
+11:16:08 <banas> #startmeeting Hello World
+11:16:08 <glitterfox> Meeting started Sat Jun 21 11:16:08 2014 UTC and is due to finish in 60 minutes.  The chair is banas. Information about MeetBot at http://wiki.debian.org/MeetBot.
+11:16:08 <glitterfox> Useful Commands: #action #agreed #help #info #idea #link #topic #startvote.
+11:16:08 <glitterfox> The meeting name has been set to 'hello_world'
+11:19:51 <nikam> banas, ravi : Me and sambhav had an imformal discussion yesterday - we got some 6 points to discuss for now
+11:19:54 <banas> glitterfox: meeting_help is "guides for help with the meeting are on this link. Please read before asking something that may turn out to be FAQ."
+11:19:54 <banas> #endmeeting

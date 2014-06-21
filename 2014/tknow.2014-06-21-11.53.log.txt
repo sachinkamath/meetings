@@ -1,0 +1,727 @@
+11:53:06 <banas> #startmeeting Tknow Induction Pre-party
+11:53:06 <glitterfox> Meeting started Sat Jun 21 11:53:06 2014 UTC and is due to finish in 60 minutes.  The chair is banas. Information about MeetBot at http://wiki.debian.org/MeetBot.
+11:53:06 <glitterfox> Useful Commands: #action #agreed #help #info #idea #link #topic #startvote.
+11:53:06 <glitterfox> The meeting name has been set to 'tknow_induction_pre_party'
+11:53:17 <banas> #topic Using Meetbot
+11:53:30 <banas> okay since this is our first meet
+11:53:36 <banas> I'd like to go over few points
+11:53:48 <banas> to avoid chaos since we're quite a few people
+11:53:56 <nikam> yes
+11:53:56 <banas> when you have something to say
+11:54:02 <banas> do a "!"
+11:54:12 <anchal> ok
+11:54:14 <banas> kinda like raising your hand
+11:54:29 <Z_E_U_S> !
+11:54:32 <Z_E_U_S> ok
+11:54:33 <nikam> LoL
+11:54:36 <banas> and then the others will wait for you to finish :)
+11:54:38 <ravi_> lol
+11:54:45 <_basil> lol
+11:54:47 <banas> when someone is speaking, try to let him/her complete
+11:55:12 <banas> !guide_meeting
+11:55:12 <glitterfox> Somebody said guide_meeting is read http://wiki.debian.org/MeetBot before you start with the meeting, many of the questions you might have should be listed as answers, banas
+11:55:13 <banas> auch
+11:55:30 <banas> yeah, that link has stuff you should read :)
+11:55:43 <banas> when someone wants to assign themselves/others a task, do something like this
+11:55:59 <banas> #action nickname This is a task I'd like to remember
+11:56:14 <banas> that will save the task in the logs, which we can lookup later
+11:56:25 <banas> okay, now we should be good to start. :)
+11:56:27 <banas> #undo
+11:56:27 <glitterfox> Removing item from minutes: <MeetBot.ircmeeting.items.Action object at 0x16cf090>
+11:56:36 <banas> #topic Introduction
+11:56:38 <romil931> Sorry i am late
+11:56:50 <dultinator> Hi, late. Welcome to the meeting
+11:56:52 <banas> np, romil931 and Aiswarya when you want to speak soemthing, do a "!"
+11:56:54 <romil931> Post the logs will check it out later
+11:56:59 <banas> dultinator: :D
+11:57:12 <Aiswarya> Ok
+11:57:18 <banas> alright, alphabetically, introduce :)
+11:57:24 <banas> A first
+11:57:40 <nikam> !
+11:57:58 <banas> nikam: sure
+11:57:59 <Aiswarya> Hai all..I m aiswarya from it dept
+11:58:03 <Aiswarya> I m now in 3rd yr
+11:58:04 <_basil> lol
+11:58:12 <nikam> It'll be easier if we go according to the chatlist names? okay you have started :)
+11:58:45 <banas> nikam: chatlist is in that order - ops on top
+11:58:55 <nikam> Yeah, that'll be easier to follow?
+11:59:07 <banas> cool, let's go in that order then
+11:59:27 <banas> Oh, I'm first :P
+11:59:28 <_basil> (y)
+11:59:51 <Z_E_U_S> cool so i can relax :P
+11:59:52 <banas> Sarup here, just came here to give the bot some fresh air :)
+12:00:25 <ahuja> heyo, I'm abhishek,
+12:00:44 <nikam> I am Abhijeet, passed 2nd year in CSE. LoL
+12:00:45 <Z_E_U_S> !
+12:01:06 <Z_E_U_S> an idea,once somebody has finished, they can say next
+12:01:16 <banas> +!
+12:01:17 <banas> +1
+12:01:20 <nikam> y
+12:01:23 <nikam> +1
+12:01:30 <nikam> typo :p
+12:01:31 <ravi_> !
+12:01:32 <ravi_> (y)
+12:01:54 <banas> nikam: you're next :)
+12:01:56 <Z_E_U_S> !
+12:02:22 <Z_E_U_S> it ll coordinate better i think, else the next guy wont know when to start
+12:03:13 <banas> Z_E_U_S: usually, it ends with the person speaking sating "EOF"
+12:03:14 <Z_E_U_S> oh ok
+12:03:20 <banas> s/sating/saying
+12:03:21 <_basil> !
+12:03:45 <banas> _basil: go ahead, don;t keep doing the ! when it's your turn :)
+12:03:48 <nikam> Abhijeet here, going top go in 3rd CSE  :) Wishing some more people would have joined -> EOF
+12:04:20 <_basil> basil from scnd/thrd year here ( cse-A ) nick name _basil
+12:04:31 <_basil> next
+12:04:53 <ahuja> hey, I'm abhishek, just got done with my 2nd year
+12:05:23 <ahuja> I've been following the wikileaks revolution and the free software revolution from the 80s
+12:05:31 <ahuja> to try and get ideas for a play
+12:05:54 <ahuja> or something remotely like a play that can convey the same ideas
+12:06:00 <ahuja> for our induction
+12:06:43 <ahuja> next
+12:06:54 <Z_E_U_S> !
+12:06:54 <ahuja> :)
+12:07:02 <anchal> Hi all !! This is Anchal. I am in CSE dept. Currently in IIIrd year  ;) :)
+12:07:03 <Z_E_U_S> guys it EOF
+12:07:36 <dultinator> Aravind Sivaramakrishnan (IV Year), Aspiring Jedi. Infamously named "dult". EOF
+12:07:46 <ravi_> !
+12:07:47 <banas> dultinator: :D
+12:07:48 <ravi_> glitterfox?
+12:07:57 <banas> glitterfox: introduce
+12:07:57 <glitterfox> It has been said that introduce is Just in case you run out of witty lines, banas
+12:08:03 <banas> glitterfox: WhoRU
+12:08:03 <glitterfox> Rumor has it WhoRU is the pigeon who shits on your head, banas
+12:08:15 <banas> awk
+12:08:25 <nikam> :D
+12:08:37 <Z_E_U_S> Lol
+12:08:38 <_basil> lol
+12:08:38 <romil931> Lol
+12:08:38 <varuns55> lol
+12:08:41 <Z_E_U_S> i like glitterfox
+12:08:50 <_basil> me too =D
+12:08:56 <ravi_> I'm ravindar from 3rd yr cse-a.   EOF
+12:08:59 <banas> glitterfox: love is "I love you too"
+12:08:59 <glitterfox> Got it!
+12:09:00 <romil931> banas has never been trolled like this before
+12:09:15 <Z_E_U_S> dult ur name is Aravind Sivaramakrishnan? :0
+12:09:37 <banas> :D
+12:09:40 <dultinator> Ya, I get that a lot.
+12:10:01 <Z_E_U_S> obviously
+12:10:10 <romil931> Ravi?
+12:10:13 <Z_E_U_S> i couldnt imagine y
+12:10:32 <ravi_> I'm ravindar from 3rd yr cse-a.   EOF
+12:10:32 <Z_E_U_S> sorry ravi continue
+12:10:49 <nikam> romil931 next! ravi's done with his :)
+12:11:00 <romil931> Hi this is Romil IV year CSE
+12:11:30 <romil931> Will bring in some cool prototypes to lure juniors for active involvement
+12:11:31 <romil931> EOF
+12:11:42 <Sriram> hello everyone, Sriram here..a soon to be 3rd year from cse-a.    EOF
+12:11:54 <The_> Hey this is Suriya 2nd-3rd Year CSE. New to the grp .EOF
+12:12:10 <varuns55> Hi... I'm varun from III yr CSE . EOF
+12:12:32 <_basil> cse a/b/c???
+12:13:06 <anchal> i think b
+12:13:06 <varuns55> cse b ...
+12:13:06 <Aiswarya> LOL
+12:13:06 <vishaag> Hi guys, I'm Vishaag, stepping into the2nd year CSE-E. EOF
+12:13:07 <_basil> nop suriya
+12:13:27 <The_> c
+12:13:41 <nikam> atleast one junior turned up, cool :)
+12:13:54 <Z_E_U_S> vishaag , u can call some 2 nd years if u want to, last chance, Ill anyways be last on the list
+12:14:20 <Z_E_U_S> ??
+12:14:50 <ravi_> !
+12:14:53 <ravi_> wher is nishaanth?
+12:15:03 <vishaag> I've called my friend. He'll join soon i guess :) (<Z_E_U_S>, you can continue! thanks!)
+12:15:25 <Z_E_U_S> so ill wait to introduce myself
+12:15:26 <nikam> dead  -_-
+12:15:31 <Z_E_U_S> probably
+12:15:34 <dultinator> Okay. All of us are from CSE, and we're a bunch of weirdos. Let's get the meeting on track!
+12:15:40 <dultinator> Glitterfox, do your thang.
+12:15:40 <glitterfox> I don't have a clue, dultinator.
+12:15:44 <Z_E_U_S> no he s there,we cant see him
+12:15:50 <nikam> LoL, yes
+12:15:51 <banas> Z_E_U_S: you go ahead, we'll continue and if someone new joins they'll pick up
+12:15:59 <Z_E_U_S> ok
+12:16:00 <banas> dultinator: yep, about time
+12:16:02 <dultinator> I love you glitterfox. You're like me during exams.
+12:16:22 <banas> I hope this works:
+12:16:25 <banas> !love dultinator
+12:16:25 <glitterfox> No idea, banas.
+12:16:29 <banas> grr
+12:16:38 <_basil> lolllll
+12:16:38 <ravi_> lol
+12:16:38 <banas> !love
+12:16:38 <glitterfox> Rumor has it love is I love you too, banas
+12:16:40 <nikam> that din work :p
+12:16:58 <banas> it just doesn't love dultinator ;)
+12:17:07 <nikam> hehe
+12:17:14 <dultinator> Glitterfox seems to be as confused about love as Sarup is.
+12:17:14 <glitterfox> I don't have a clue.
+12:17:25 <dultinator> Exactly.
+12:17:26 <banas> lol
+12:17:27 <anchal> Lol
+12:17:32 <banas> okay we move to the next thing
+12:17:38 <banas> #topic Chairs
+12:17:52 <banas> I'll assign the first 3 people to turn up for the meeting as chairs everytime
+12:17:53 <Z_E_U_S> I m sambhav, passed my second year in IT dept, going to sit in dults classnext year,
+12:18:02 <banas> so there's less chaos.
+12:18:15 <banas> #chair nikam dultinator ravi_
+12:18:15 <glitterfox> Current chairs: banas dultinator nikam ravi_
+12:18:18 <dultinator> Sambhav: Choose the second last bench on the first column. Works everytime.
+12:18:25 <dultinator> UNLIMITED POWER
+12:18:37 <dultinator> Muhahaha
+12:18:40 <Aiswarya> Lol
+12:18:42 <Z_E_U_S> thanks for the advice
+12:19:03 <banas> Chairs can add topics etc. Everyone can add #action items among other things
+12:19:06 <Z_E_U_S> first rom the entrance?
+12:19:42 <Z_E_U_S> sorry , banas can continue
+12:20:06 <banas> cool, is there a list of agendas with anybody? nikam ?
+12:20:13 <nikam> Yes!
+12:20:23 <banas> nikam: set the first one as #topic
+12:21:02 <nikam> I'll repeat this once again :) Me and Sambhav had an imformal talk yesterday, so we agreed on 6 points to be discussed
+12:21:30 <nikam> 1.  shirts and bands + a video  2. Ahuja's skit  3. Anchors   4. inviting a music band and 1 dance group to perform  5. An awesome debate + speech  6. Inviting the alumni for the meet
+12:21:31 <romil931> Ans they are?
+12:21:54 <dultinator> I veto 4.
+12:22:02 <banas> #topic shirts and bands + a video
+12:22:14 <dultinator> Oh, okay.
+12:22:20 <banas> I think that's too many topics in one thing.
+12:22:23 <banas> #undo
+12:22:23 <glitterfox> Removing item from minutes: <MeetBot.ircmeeting.items.Topic object at 0x15d6d10>
+12:22:23 <dultinator> ROMIL COME BACK TO US
+12:22:32 <banas> #topic Shirts
+12:22:56 <banas> Hi everyone who recently joined, we're discussing shirts. to speak, just do a ! :)
+12:22:57 <romil931> Sorry traveling in Bangalore. The net is a bit poor.
+12:23:01 <banas> eof
+12:23:03 <_basil> madhu told he wl tc of shirts
+12:23:04 <romil931> !
+12:23:11 <nikam> Kevintab95 -  introduction? :)
+12:23:21 <dultinator> !
+12:23:34 <dultinator> Tip: before printing shirts, see if there are enough people to buy them.
+12:23:35 <_basil> +!
+12:23:35 <romil931> Let's make sure the shirts have the right sizes this time
+12:23:47 <dultinator> !
+12:23:48 <_basil> well what about new logo then?
+12:23:50 <_basil> for shirt
+12:23:56 * banas hides
+12:24:03 <kevintab95> Kevin
+12:24:04 <kevintab95> 2nd year cse
+12:24:08 <nikam> dultinator?
+12:24:14 <dultinator> And about bands, have you guys zeroed in on a place yet?
+12:24:18 <BlakeRazor> Mukesh, 2nd year CSE
+12:24:29 <nikam> thanks :)
+12:24:35 <romil931> Gutka mukesh? :-P
+12:25:25 <BlakeRazor> -_- no Romil anna !!
+12:25:41 <dultinator> !
+12:25:44 <nikam> Okay, so we can buy shirts for all the core members that day, and extra 3 to offer juniors as prizes?
+12:25:50 <dultinator> I think "Romil Anna" should be a thing.
+12:25:52 <dultinator> !
+12:25:57 <nikam> LoL
+12:26:10 <dultinator> I don't think anything > 100 bucks should be used for prizes. Ever.
+12:26:11 <romil931> Shut up dult
+12:26:19 <BlakeRazor> lol :P
+12:26:20 <romil931> Better not be a thing.
+12:26:24 <banas> glitterfox: RomilAnna is "..."
+12:26:24 <glitterfox> Got it!
+12:26:34 <BlakeRazor> is..... ???
+12:26:37 <dultinator> Thanks, glitterfox.
+12:26:46 <_basil> !
+12:26:47 <_basil> ! wen i was in first year i use to call dult anna dult anna >_<
+12:26:47 <glitterfox> Gotcha!
+12:26:59 <romil931> Glitterfox. I will find you and gill you :-P
+12:26:59 <glitterfox> Wish I knew.
+12:27:09 <nikam> :D
+12:27:10 <dultinator> It's alright, _basil. We all make mistakes
+12:27:16 <Z_E_U_S> and now im gonna call Aravind Sivaramakrishnan anna
+12:27:22 <ravi_> lol
+12:27:25 <BlakeRazor> lol :P
+12:27:27 <_basil> lol
+12:27:32 <anchal> lol :-p
+12:27:33 <dultinator> Good luck saying that, bud.
+12:27:54 <dultinator> Anyways, NO T-SHIRTS FOR PRIZES.
+12:28:00 <dultinator> Make sure you have a RSVP kinda thing about who's buying them and what their sizes are.
+12:28:01 <_basil> becuase we dont hav any fund s of now
+12:28:11 <dultinator> And if you're serious about making bands, zero in on a place.
+12:28:22 <dultinator> _basil brought up stickers the other day.
+12:28:27 <nikam> How do we go about that?
+12:28:29 <banas> one option, make caps/bands. they're unisex and have fairly universal sizes
+12:28:38 <dultinator> banas, think we could get a stickystamp discount? :P
+12:28:46 <_basil> bought?
+12:28:46 <banas> dultinator: wristbands
+12:28:52 <nikam> yeah, caps is good idea!
+12:29:08 <romil931> Wristbands
+12:29:17 <dultinator> banas: I know, but ask them to zero in on a good place.
+12:29:30 <ravi_> caps sounds nice. but ppl rarely use..
+12:29:31 <romil931> It will look stupid wearing caps in amriteshwari hall
+12:29:52 <dultinator> !
+12:29:57 <_basil> dats true
+12:29:57 <ravi_> I vote for wristband
+12:29:59 <dultinator> Stick to t-shirts. And stickers.
+12:30:01 <BlakeRazor> y not something like laptop stickers ??
+12:30:07 <BlakeRazor> small ones ??
+12:30:12 <dultinator> If you want wristbands, please zero in on a place,
+12:30:28 <dultinator> Nice idea.
+12:30:38 <_basil> vote ::tshirt
+12:30:43 <nikam> we'll have a vote for wristbands? everyone agrees with it?
+12:30:57 <banas> #startvote
+12:30:57 <glitterfox> Unable to parse vote topic and options.
+12:31:04 <romil931> +1
+12:31:05 <nikam> +1
+12:31:05 <ravi_> +1
+12:31:06 <Sriram> +1
+12:31:09 <dultinator> +1
+12:31:09 <_basil> for?
+12:31:26 <banas> wait, who's going to downvote any form of swag? ;)
+12:31:33 <banas> where's the money?
+12:31:43 <_basil> wristband -1
+12:31:54 <dultinator> You're looking at it!
+12:32:00 <_basil> good ques @banas
+12:32:00 <BlakeRazor> no -'s :P
+12:32:45 <banas> okay, let's do it this way
+12:32:46 <nikam> how did you guys about the money last year?
+12:32:47 <nikam> *go about
+12:32:54 <_basil> do u all realy wish to wear a weird yellow color band?? sob
+12:33:02 <banas> #startvote band cap sticker tshirt
+12:33:02 <glitterfox> Unable to parse vote topic and options.
+12:33:13 <banas> ah how does this thing work?
+12:33:15 <banas> brb
+12:33:55 <Z_E_U_S> instead of spending our dads money, lets make our own.til we do that, cancel the swag for now.What say?
+12:33:56 <banas> #startvote What would you like as promotional material during the induction? band, cap, sticker, tshirt
+12:33:56 <glitterfox> Begin voting on: What would you like as promotional material during the induction? Valid vote options are band, cap, sticker, tshirt.
+12:33:56 <glitterfox> Vote using '#vote OPTION'. Only your last vote counts.
+12:34:34 <banas> #vote band
+12:34:45 <dultinator> #vote sticker
+12:34:47 <nikam> #vote tshirt
+12:34:52 <Z_E_U_S> #vote band
+12:34:53 <ravi_> #vote band
+12:34:54 <The_> #vote band
+12:34:57 <BlakeRazor> #vote sticker
+12:34:59 <_basil> #vote tshirt
+12:35:00 <_basil> #vote tshirt
+12:35:00 <_basil> #vote tshirt
+12:35:18 <Sriram> #vote band
+12:35:24 <ravi_> cheating.! basil! :p
+12:35:27 <_basil> glitterfox a fooolll :p
+12:35:27 <glitterfox> Bugger all, I dunno!
+12:35:30 <anchal> #vote t-shirt
+12:35:30 <glitterfox> anchal: t-shirt is not a valid option. Valid options are band, cap, sticker, tshirt.
+12:35:31 <Aiswarya> Vote band
+12:35:50 <BlakeRazor> seriously ?? -_-
+12:35:52 <banas> _basil: only last option counts ;)
+12:35:55 <kevintab95> #vote sticker
+12:36:08 <anchal> Ok #vote tshirt
+12:36:08 <BlakeRazor> #vote sticker
+12:36:12 <Z_E_U_S> lol
+12:36:26 <dultinator> Ok, guys. I might have to leave right now. Will check the logs later.
+12:36:33 <varuns55> #vote band
+12:36:38 <dultinator> Notice to banas: Don't call me for the next 2 hours
+12:36:39 <banas> dultinator: bye!
+12:36:40 <dultinator> :D
+12:36:43 <banas> :D
+12:36:52 <Z_E_U_S> dult says and romil leaves
+12:37:09 <banas> ok, has everybody voted?
+12:37:11 <anchal> lok
+12:37:18 <anchal> *lol
+12:37:39 <ahuja> #vote band
+12:37:42 <banas> romil931: we're running a vote. I'll do a wrong vote to show you what options exist
+12:37:43 <vishaag> #vote sticker
+12:37:44 <_basil> romil931 r u drunk??
+12:37:47 <_basil> :P
+12:37:59 <romil931> Lol
+12:38:04 <romil931> My internet is drunk
+12:38:07 <banas> #vote wrongspellingtshirt
+12:38:07 <glitterfox> banas: wrongspellingtshirt is not a valid option. Valid options are band, cap, sticker, tshirt.
+12:38:13 <romil931> What is the vote between?
+12:38:15 <_basil> lol
+12:38:24 <BlakeRazor> lol
+12:38:34 <anchal> >_<
+12:38:34 * nikam feels hungry.
+12:38:48 * nikam offers some drinks and chips.
+12:38:57 <romil931> I want all three
+12:39:00 <romil931> :-P
+12:39:13 <BlakeRazor> there are 4 options !!
+12:39:19 <banas> do you also want to pay for all three? ;)
+12:39:39 <_basil> coool dats nyc richie rich :D
+12:40:02 <banas> ok, has everybody voted?
+12:40:04 <romil931> That you will pay
+12:40:32 <romil931> Now that you have paid ur fees the rest of GSoC money is treat
+12:40:38 <nikam> banas: Tshirts will a be great for promoting a club, if we all wear it that day
+12:40:38 <romil931> :-P
+12:40:59 <_basil> dats the pointtt
+12:41:00 <romil931> We tried that last year dunno if it worked out!
+12:41:25 <_basil> ohkk ask glitterfox o count
+12:41:30 <_basil> to*
+12:41:31 <Z_E_U_S> manjush wore it everyday, so its should have worked
+12:41:38 <Z_E_U_S> it*
+12:41:39 <Z_E_U_S> lol
+12:41:40 <BlakeRazor> yeah it worked trust me... u guys looked cool in that
+12:41:45 <_basil> lol true
+12:41:46 <BlakeRazor> i was there
+12:41:46 <banas> ok, one last time, has everybody voted? I'll end vote if nobody is left
+12:41:55 <Z_E_U_S> yes
+12:41:56 <Z_E_U_S> end vote
+12:42:02 <BlakeRazor> end it...
+12:42:02 <banas> #endvote
+12:42:02 <glitterfox> Voted on "What would you like as promotional material during the induction?" Results are
+12:42:02 <glitterfox> band (7): varuns55, ahuja, banas, ravi_, The_, Sriram, Z_E_U_S
+12:42:02 <glitterfox> sticker (4): vishaag, kevintab95, dultinator, BlakeRazor
+12:42:02 <glitterfox> tshirt (2): nikam, _basil
+12:42:06 <_basil> #vote tshirt
+12:42:18 <anchal> me ?
+12:42:19 <nikam> bands/stickers can be offered for promotional stuff , since they are way cheaper
+12:42:31 <anchal> Agreed
+12:42:54 <banas> cool, let;s use this results for now, and you can run a vote again when there are more people
+12:42:56 <_basil> band?????  :'( a yellow band kill u glitterfox
+12:42:58 <romil931> I voted for all three da
+12:43:02 <BlakeRazor> yupp !!
+12:43:57 <banas> ok, the question is
+12:44:05 <banas> whaever you want, how do you raise the money for it?
+12:44:19 <romil931> Crowd funding :-P
+12:44:28 <nikam> 1. we pay something 2. We beg college for it
+12:44:29 <_basil> let all gsoc nerds donate money
+12:44:31 <_basil> =D
+12:44:33 <Z_E_U_S> yes
+12:44:46 <romil931> College wont pay shit
+12:44:55 <romil931> Unless sarup asks that is :-P
+12:44:56 <anchal> hi gayatri
+12:45:04 <nikam> hehe
+12:45:07 <banas> sure, next time gsoc nerds organize something, they'll charge a 100$ per head too ;)
+12:45:17 <ravi_> last year how did you guys managed?
+12:45:30 <Z_E_U_S> dont call them nerds basil
+12:45:31 <banas> you can ask jevitha ma'am for funds, although I don't know how effective it is
+12:45:40 <romil931> We paid for it
+12:46:00 <amaragayathri> heyy can spend half an hour.Got to attend an important wedding ! extremely sorry !!
+12:46:04 <banas> or you can charge an entrance fee to the event
+12:46:08 <_basil> dult said jeevitha maam gave about 2K last year
+12:46:13 <anchal> Since we are so many we can give some contribution
+12:46:20 <nikam> so lets do that again, we have more people now!
+12:46:20 <anchal> Hope that will work
+12:46:35 <ravi_> no.. entrance fee is very bad.
+12:46:36 <banas> amaragayathri: np, you can follow the logs later :)
+12:46:38 <ravi_> *bad idea
+12:46:45 <_basil> no entrance fee pls
+12:46:47 <Aiswarya> Ya..very bad
+12:46:48 <_basil> we wl contribut
+12:46:55 <anchal> +1
+12:47:19 <banas> #startvote How do we raise money for promo? entrancefee, everyonepays, tryaskingcollege
+12:47:19 <glitterfox> Begin voting on: How do we raise money for promo? Valid vote options are entrancefee, everyonepays, tryaskingcollege.
+12:47:19 <glitterfox> Vote using '#vote OPTION'. Only your last vote counts.
+12:47:30 <amaragayathri> yaaa. sure :)
+12:47:30 <nikam> yes, for the shirts? bands - we can use thee money from the college?
+12:47:43 <_basil> #vote everyonepays
+12:47:45 <nikam> #vote everyonepays
+12:47:52 <anchal> #vote everyonepays
+12:47:58 <BlakeRazor> #vote everyonepays
+12:48:05 <amaragayathri> vote everyonepays
+12:48:11 <ravi_> #vote everyonepays
+12:48:19 <banas> amaragayathri: it has to be a #vote
+12:48:24 <vishaag> #vote everyonepays
+12:48:36 <Aiswarya> #vote everyonepays+try.asking college
+12:48:36 <glitterfox> Aiswarya: everyonepays+try.asking college is not a valid option. Valid options are entrancefee, everyonepays, tryaskingcollege.
+12:48:37 <romil931> +1 everyone pays
+12:48:37 <banas> #vote tryaskingcollege
+12:48:53 <The_> #vote everyonepays
+12:48:55 <Sriram> #vote everyonepays        many people will hesitate to attend the induction if there is an entry fee
+12:48:55 <glitterfox> Sriram: everyonepays        many people will hesitate to attend the induction if there is an entry fee is not a valid option. Valid options are entrancefee, everyonepays, tryaskingcollege.
+12:49:00 <anchal> Dats not gona happen
+12:49:09 <kevintab95> #vote everyonepays
+12:49:38 <Aiswarya> #vote everyonepays
+12:49:38 <anchal> College wont give a single pie
+12:49:38 <romil931> You charge entrance if you really have something mind blowing
+12:49:38 <_basil> @banas count
+12:49:38 <nikam> Right Sriram
+12:49:39 <varuns55> #everyonepays
+12:49:57 <varuns55> #vote everyonepays
+12:50:02 <_basil> n non cse people wont even pass infront f am hall if any entrance fee s there
+12:50:03 <banas> varuns55: it;s a #vote option
+12:50:06 <Z_E_U_S> banas what hapened in your first year?
+12:50:08 <_basil> of*
+12:50:18 <banas> Z_E_U_S: we raised money through entrance fee
+12:50:32 <ahuja> #vote everyonepays
+12:50:34 <Z_E_U_S> remember guys when we are all in first year?
+12:50:35 <romil931> And it was a the day event
+12:50:37 <banas> and it was the most succesful tknow induction ive seen yet
+12:50:39 <Z_E_U_S> we dont know shit
+12:50:45 <romil931> True that
+12:50:47 <Z_E_U_S> and blindly go here and ther
+12:50:54 <banas> @showvote
+12:50:57 <banas> #showvote
+12:50:57 <glitterfox> tryaskingcollege (1): banas
+12:50:57 <glitterfox> everyonepays (10): varuns55, ahuja, Aiswarya, ravi_, anchal, BlakeRazor, The_, kevintab95, nikam, _basil
+12:51:30 <banas> Look! I'm the only one with fath in college! ;)
+12:51:40 <banas> #endvote
+12:51:40 <glitterfox> Voted on "How do we raise money for promo?" Results are
+12:51:40 <glitterfox> tryaskingcollege (1): banas
+12:51:40 <glitterfox> everyonepays (10): varuns55, ahuja, Aiswarya, ravi_, anchal, BlakeRazor, The_, kevintab95, nikam, _basil
+12:51:59 <_basil> so who s the treasurer??
+12:51:59 <amaragayathri> #vote everyonepays
+12:52:02 <banas> ok, so is there more to discuss on this area? would you like to move this for later?
+12:52:03 <Aiswarya> Lol
+12:52:07 <Z_E_U_S> and if entry fees is 10 rs and a sufficient audience, think how much we can raise? @banas
+12:52:11 <nikam> yup
+12:52:35 <romil931> Enough for wristbands i guess and stickers maybe
+12:52:39 <banas> Z_E_U_S: we did 30 bucks, we raised enough for a party after the event :)
+12:52:46 <_basil> lets put up 100 bucks each is dat fyn
+12:53:05 <Z_E_U_S> guys u make not like me for saying that, but try to see from all points of view
+12:54:06 <_basil> no entrance fee for an induction programme that too in the vry first week of freshers
+12:54:06 <nikam> Did anyone think of some awesome activity for the event?
+12:54:06 <_basil> pls
+12:54:21 <Z_E_U_S> 30 bucks anyone is fine with, and a good no can genrate a lot for anything as banas says
+12:54:50 <nikam> yes, we can charge them - provided our induction is awesome!
+12:55:00 <Z_E_U_S> exactly
+12:55:02 <_basil> ask madhu because he s the one dealing with bands or stickers or wat eve it is
+12:55:03 <Z_E_U_S> so its on us
+12:55:04 <banas> Here's what I suggest
+12:55:11 <banas> Keep a free induction
+12:55:20 <banas> do a charged workshop as follow up
+12:55:22 <Z_E_U_S> either we take the easy way out, but pening our wallets, or the contrary
+12:55:23 <nchal> +1
+12:55:34 <amaragayathri> thats the best idea !
+12:55:39 <Z_E_U_S> opening*
+12:55:41 <BlakeRazor> thats a good idea...
+12:55:47 <Z_E_U_S> ya that ll work too
+12:55:52 <_basil> +1
+12:55:53 <Aiswarya> +1
+12:56:12 <varuns55> +1
+12:56:21 <The_> +1
+12:56:23 <Sriram> +1
+12:56:35 <ravi_> cool. Not bad. +1
+12:56:53 <nikam> ok then, we'll go ahead with saup's idea :)
+12:57:09 <Z_E_U_S> yes im up for it
+12:57:44 <nchal> M
+12:57:51 <Z_E_U_S> instead of giving swag in induction, give it to somebody who ll deserve it in the workshop
+12:58:03 <banas> #idea free beer induction, paid beer follow up workshop
+12:58:11 <Z_E_U_S> and that will come from a minimal amt from anybody else
+12:58:28 <Z_E_U_S> everyone*
+12:58:51 <romil931> Makes sense +1
+12:58:56 <Z_E_U_S> ya but a lot will depend on the success of induction
+12:59:12 <amaragayathri> also i wud like suggest not to assign the jobs just like that to ppl may be making a poster or a video watever !! Doing any job as a team together wud be better !
+12:59:41 <Z_E_U_S> there will be chaos then
+12:59:42 <nikam> But still assigning people will be better, we can catch hold of them later
+12:59:56 <Z_E_U_S> exactly
+12:59:57 <banas> amaragayathri: of course, but do give responsibiliies, or there's no one to blame ;)
+13:00:15 <amaragayathri> thats fair :) then time to start assigning !!
+13:00:23 <nikam> who's up for the poster? @banas , Z_E_U_S ?
+13:00:34 <banas> wait is this discussion over?
+13:00:44 <banas> you'll thank me later for doing an organized meeting :)
+13:00:45 <Z_E_U_S> no
+13:00:52 <nikam> :P
+13:00:52 <banas> then finish this first
+13:01:00 <amaragayathri> sure
+13:01:12 <nikam> Ok, where were we?
+13:01:25 <Z_E_U_S> y are ppl leaving ?
+13:01:32 <Aiswarya> Money problem
+13:02:02 <Aiswarya> It's becoz there net is not working
+13:02:15 <nikam> ok- we pay for the start, then earn it up with workshops?
+13:02:21 <amaragayathri> take it easy..go on !! network probs
+13:02:32 <Z_E_U_S> i know its crazy, but putting a lot of our hopes on the induction can be dangerous
+13:02:34 <Z_E_U_S> !
+13:02:37 <Z_E_U_S> !!!
+13:02:37 <glitterfox> I don't know, Z_E_U_S.
+13:02:38 <Z_E_U_S> !
+13:03:24 <Z_E_U_S> i knw its crazy , but can we have a simple but fun workshop b4 induction,like a what is linux or something?
+13:03:35 <nikam> @banas,- we'll have a vote for a paid/ free  induction?
+13:03:39 <romil931> If it leaves even a slight wrong notion then the club will have issues with future endevours
+13:03:57 <Z_E_U_S> ya
+13:04:08 <Z_E_U_S> thats y im asking for a workshop first
+13:04:13 <Z_E_U_S> !
+13:04:16 <banas> #startvote Should the induction (not workshop) be paid for? yes, no
+13:04:16 <glitterfox> Begin voting on: Should the induction (not workshop) be paid for? Valid vote options are yes, no.
+13:04:16 <glitterfox> Vote using '#vote OPTION'. Only your last vote counts.
+13:04:33 <Z_E_U_S> !
+13:04:41 <Z_E_U_S> wait guys jus hear my idea
+13:04:43 <Z_E_U_S> !
+13:04:53 <banas> Z_E_U_S: just speak :)
+13:05:19 <Z_E_U_S> if we have a workshop b4 induction, it ll be better
+13:05:19 <Z_E_U_S> because
+13:05:26 <vishaag> #vote no
+13:05:47 <Z_E_U_S> we will give an impression that we are ready to give
+13:05:48 <_basil> #vote no
+13:05:52 <Z_E_U_S> to reach i mean
+13:06:08 <Z_E_U_S> teach and reach out i mean
+13:06:19 <The_> #vote no
+13:06:24 <Z_E_U_S> then we can get a gud audience for induction
+13:06:24 <varuns55> #vote no
+13:06:32 <_basil> c can @banas go for a pyton or fedora workshop and ask them to donate smthng for that (i meant wl fedora giv monet like dat?)
+13:06:32 <Z_E_U_S> whch can be free
+13:06:52 <Z_E_U_S> induction can be free
+13:06:52 <ravi_> Dude.! do you think ppl will attend workshop in 1st week itself./?
+13:06:58 <nikam> Z_E_U_S: but first years come by 1 august, out induction is around 12? Will we have time between that?
+13:07:10 <nikam> ravi_ : right
+13:07:22 <nikam> #vote no
+13:07:30 <romil931> #vote no
+13:07:39 <ravi_> #vote no
+13:07:42 <amaragayathri> #vote NO
+13:07:57 <Z_E_U_S> but the workshop b4 induction can get like a gud no of ppl to advertise about the induction later on
+13:08:22 <Z_E_U_S> directly pinning all our hopes on the induction can be fatal
+13:08:29 <Z_E_U_S> for the future
+13:08:30 <banas> _basil: I'm against that personally. that money wll go to swag, then how is that raising anything for inductions?
+13:08:39 <banas> #vote no
+13:08:46 <Sriram> @ Z_E_U_S   also organizing the workshop and the induction within a span of one month(after the college starts) would be hectic.We need to have all plans in hand to be able to do both successfully.
+13:08:52 <_basil> ooohkkk  @banas
+13:08:59 <Sriram> #vote no
+13:09:38 <anchal> #vote no
+13:09:39 <Z_E_U_S> @ banas ??
+13:10:06 <Z_E_U_S> a  "what is linux?'
+13:10:07 <banas> Z_E_U_S: depends on what you're doing the workshop on
+13:10:07 <Z_E_U_S> is ot that hard
+13:10:07 <nikam> Sriram:  right . We can have the induction first - and then go for the workshop in the same month :)
+13:10:30 <Z_E_U_S> what is linux is not that hard to do?
+13:10:48 <Z_E_U_S> or its completely wrong to call it a workshop
+13:11:13 <Z_E_U_S> its like gettig started with basic tech
+13:11:30 <nikam> !
+13:11:37 <nikam> everyone's voted?
+13:11:43 <Z_E_U_S> its like gettig started with basic tech
+13:11:47 <Z_E_U_S> or its completely wrong to call it a workshop
+13:11:53 <Z_E_U_S> or forget it if this doesnt work well with u guys
+13:12:08 <Z_E_U_S> #vote no
+13:12:45 <banas> Z_E_U_S: im not sure how catchy that is to someone who just came out of school
+13:13:16 <banas> it was for me, it was for many other folk too, and it went well in first year. they;'re the tech clubbers you know.
+13:13:16 <nikam> Yeah, Linux - dat too in first week?  So we move on with the next topic?
+13:13:40 <romil931> I think so too. Counselling over right. What rank did it go till this time?
+13:13:42 <vishaag> 10k
+13:13:45 <ahuja_> maybe we could do it like an official "Welcome to the cs dept" thing, is what sambhav is trying to say. And while doing that, put in a little bit about tknow
+13:14:15 <banas> ahuja_: I won't go against that, but you need to make it sound cooler :D
+13:14:31 <banas> and wai
+13:14:37 <dultinator> Hi, what did I miss?
+13:14:43 <Z_E_U_S> a lot
+13:14:49 <banas> is your tshirt discussion over or not? I really want clean summaries
+13:15:09 <dultinator> Wait. Even t-shirt discussion isnt over?
+13:15:10 <nikam> we're paying for the induction and looting them in the workshop :p
+13:15:47 <banas> #topic Raising funds for promo stuff
+13:15:48 <romil931> We might have a better crowd this time. In the sense of people interested to do things.
+13:15:48 <Z_E_U_S> its always about getting there early thats y i was saying have a linux thing as soon as possible
+13:16:17 * banas needs a doze of hershey's, will brb
+13:16:20 <nikam> ok, one final time - are we we are going for the tshirts? We pay for them if yes.
+13:16:38 <banas> #undo
+13:16:38 <glitterfox> Removing item from minutes: <MeetBot.ircmeeting.items.Topic object at 0x16bb7d0>
+13:17:30 <Z_E_U_S> personally i think t shirts are a bit too over the top sometimes
+13:18:00 <banas> ok, here's what i suggest again
+13:18:08 <banas> keep the primary swag to be something else - cap/band/sticker
+13:18:15 <banas> thats what everybody organizing gets
+13:18:27 <banas> how to pay for it - you figure that out later
+13:18:44 <Z_E_U_S> each one pays for his own right
+13:18:46 <romil931> Do the bands now.
+13:18:49 <banas> as for tshirts, do a count of who wants it, print that money, and whoever wants one pays for it
+13:18:55 <romil931> We will do shirts for induction
+13:19:18 <banas> s/money/many
+13:19:23 <nikam> yes, we'll go ahead with a count
+13:19:40 <banas> yes do a count
+13:19:44 <banas> but later bwhen everyone is there
+13:19:53 <Z_E_U_S> guys i think we are thinking too much about something as unimportant as a shirt
+13:20:01 <banas> +1
+13:20:12 <Z_E_U_S> other things are more important
+13:20:13 <nikam> + 1
+13:20:21 <banas> ok, moving on
+13:20:27 <banas> #topic Ahuja's skit
+13:20:42 <amaragayathri> sorry, got to go. An important wedding ! I'll check out the logs later :)
+13:20:47 <nikam> ahuja_ : you there?
+13:20:52 <Z_E_U_S> abi?
+13:20:53 <banas> amaragayathri: sure, thanks for coming! :)
+13:21:01 <Z_E_U_S> by gayathri
+13:21:03 <Z_E_U_S> bye*
+13:21:06 <nikam> Yeah, thanks :)
+13:21:36 * banas thinks we should wait a while for ahuja?
+13:21:38 <ahuja_> heyo
+13:21:44 <amaragayathri> you shouldnt say that ppl..come on..we are a crew !! :D
+13:21:45 <Z_E_U_S> yo
+13:21:47 <nikam> alright
+13:21:55 <ahuja_> I'm here
+13:21:55 <ahuja_> :)
+13:21:57 <ahuja_> ok
+13:21:58 <banas> great
+13:22:05 <banas> ahuja_: fill us in!
+13:22:07 <banas> :D
+13:22:17 <nikam> your skit? :p
+13:22:20 <ahuja_> Now I've read a few stallman essays
+13:22:46 <ahuja_> and been uncovering some archives from since wikileaks started happening
+13:23:07 <ahuja_> I've been highlighting stuff that I feel is stimulating
+13:23:30 <ahuja_> things that talk about technology in a manner that makes it human
+13:23:33 <Z_E_U_S> remember we need to appeal to school kids here right
+13:23:34 <ahuja_> for instance
+13:23:50 <ahuja_> yes, I shall keep that in mind
+13:23:56 <Z_E_U_S> :)
+13:24:01 <ahuja_> for instance, skim through this
+13:24:03 <ahuja_> magnet:?xt=urn:btih:77352569fa89e2e6807de81235c8b0e2b376db2d&dn=The.Sweetest.Thing.2002.DVDRip.Xvid-Nile&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+13:24:05 * banas goes to look for the rms talk at fudcon beijing
+13:24:08 <ahuja_> sorry sorry
+13:24:39 <ahuja_> this->>
+13:24:40 <ahuja_> And they developed other traditions such as getting Chinese food at three in the morning. And I remember many sunrises seen from a car coming back from Chinatown. It was actually a very beautiful thing to see a sunrise, cause' that's such a calm time of day. It's a wonderful time of day to get ready to go to bed.
+13:26:42 <ahuja> disconnected. AND I'M BACK
+13:27:10 <Z_E_U_S> my connection vows have started too
+13:27:17 <Z_E_U_S> what did i miss?
+13:27:20 <nikam> ahuja: So you have a play in mind?
+13:27:30 <ahuja> i have ideas
+13:27:33 <ahuja> not a script
+13:27:39 <nikam> How many members do yoiu need for it? approx ?
+13:28:01 <vishaag> We could refer the movie 'Revolution OS' for that play!
+13:28:10 <ahuja> I'm working on some models, trying to see whether a TBBT approach would keep the audience occupied
+13:28:28 <ahuja> how many, say 6?
+13:28:48 <banas> +1 to what vishaag says, although i feel it could feel dry for new folk
+13:28:52 <ahuja> too many would make it messy i feel
+13:29:00 <nikam> And you need practice, time etc So you need your crew to be ready with scripts by the time we start college
+13:29:02 <romil931> @ahuja talk to anirudh to generate a script
+13:29:10 <ahuja> ok
+13:29:32 <romil931> He will have inputs to make it interesting as well.
+13:29:40 <ahuja> yes, a script should be ready by the time college opens, I'll keep that deadline
+13:29:56 <ahuja> romil931: cool!
+13:30:24 <ahuja> There's just so many things that have happened recently
+13:30:25 <nikam> hey, me and sambhav were thinking to using dults idea - of some one typing comments at the back?
+13:30:30 <ahuja> SOPA/PIPA
+13:30:40 <nikam> ahuja: that would be great :)
+13:30:52 <ahuja> ...Aaron Swartz, censorship
+13:31:04 <ahuja> nikam: it will be hard
+13:31:08 <nikam> It was great hit at the IT induction
+13:31:19 <Z_E_U_S> ahuja: try to have some good comic timing in the play mate
+13:31:30 <Z_E_U_S> nikam: i agree
+13:31:36 <Z_E_U_S> it was too gud
+13:32:02 <nikam> romil931 : can dult do it again?
+13:32:23 <romil931> I dunno you have to ask him only.
+13:32:28 <Z_E_U_S> sarup: u used to act too right?
+13:32:30 <Z_E_U_S> :P
+13:32:40 <nikam> ahuja : why did you say that?
+13:32:49 <romil931> But I am sure he will recreate it if it needs to be done
+13:33:09 <vishaag> sarup, standup comedy :D
+13:33:16 <ahuja_> what about the IT induction?
+13:33:26 <banas> me? o.O
+13:33:55 <nikam> Yeah, somebody just dragged you in :p
+13:34:17 <Z_E_U_S> go sarup
+13:34:19 <vishaag> Sarup, I saw it in your nikam 'About Sarup' on facebook :P
+13:34:20 <Z_E_U_S> !!
+13:34:20 <glitterfox> Dunno, Z_E_U_S.
+13:34:32 <vishaag> *Sarup, I saw it in your  'About Sarup' on facebook :P
+13:34:47 <Z_E_U_S> sarup cummon
+13:34:49 <banas> vishaag: haha i used to actually, informally :)
+13:34:50 <Z_E_U_S> :P
+13:35:00 <Z_E_U_S> no he used to formally also
+13:35:02 <aaiswaya> Ok..bye..I need to leave now.hv an important work to do..I will check fb for updates
+13:35:21 <nikam> yeah sure :)
+13:35:23 <Z_E_U_S> guys brb
+13:35:30 <banas> btw, don't try to drag me into any specific role, I'm not sure if I'll be around during ind time
+13:35:51 <banas> but ofc I'll help until the summer break :)
+13:35:59 <nikam> banas:  i think we peolple are dying already
+13:36:09 <nikam> we'll stop for now?
+13:36:22 <banas> the meeting?
+13:36:48 <ahuja_> I think I said most of what I had to say
+13:37:12 <nikam> yes
+13:37:12 <ahuja_> make  a list of things left to discuss
+13:37:12 <ahuja_> and we'll close
+13:37:17 <banas> #action ahuja_ work on script, update everybody else
+13:37:30 <banas> #action _basil check on status of amr hall
+13:39:30 <romil931> Seeya people.
+13:39:31 <ahuja_> (y)
+13:39:31 <nikam> we need to go about the events and anchors.
+13:39:31 <anchal> K guys see u later. When next meeting is gonna start ?
+13:39:31 <nikam> @banas - we'll quit for now?
+13:39:32 <banas> anybody want to assign themselves any work?
+13:39:32 <banas> #action nikam do a whenisgood for next meeting
+13:39:32 <banas> btw
+13:39:32 <banas> can anyone spend some time and set up a hasgeekfunnel for the club?
+13:39:32 <banas> #action banas make tknow club site bloggable
+13:42:45 <Z_E_U_S> im back
+13:42:46 <Z_E_U_S> aaannnnnddd the meeting is ending :P
+13:42:46 <nikam> :p
+13:42:46 <anchal> @sarup:Me and gayatri would love  to work on posters and video
+13:42:46 <nikam> okay guys , that all for the day!
+13:42:46 <anchal> And aiswarya too
+13:42:46 <nikam> @banas ?
+13:42:46 <banas> ah sorry i got lost in connection
+13:42:46 <banas> cool, ill end meeting
+13:42:46 <banas> #endmeeting
