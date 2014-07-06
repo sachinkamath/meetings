@@ -1,0 +1,481 @@
+16:07:30 <banas> #startmeeting mid-Summer Updates
+16:07:30 <glitterfox> Meeting started Mon Jun 30 16:07:30 2014 UTC and is due to finish in 60 minutes.  The chair is banas. Information about MeetBot at http://wiki.debian.org/MeetBot.
+16:07:30 <glitterfox> Useful Commands: #action #agreed #help #info #idea #link #topic #startvote.
+16:07:30 <glitterfox> The meeting name has been set to 'mid_summer_updates'
+16:07:47 <banas> #chair romil931 anchal aiswaryav
+16:07:47 <glitterfox> Warning: Nick not in channel: anchal
+16:07:47 <glitterfox> Current chairs: aiswaryav anchal banas romil931
+16:08:00 <banas> #topic What did you do this summer?
+16:08:05 <nikam> alright
+16:08:44 <banas> Am I supposed to go first?
+16:08:52 <romil931> I worked on a couple of scrappers and API's for some startups
+16:09:10 <nikam> Yeah :p we'll start from the top again
+16:09:10 <romil931> Lazed around a lot apart from that.
+16:09:19 <banas> ok, once romil931 finishes :
+16:09:27 <romil931> EOF
+16:10:10 <nikam> yes?
+16:10:25 <banas> SOme updates on my blog
+16:10:37 <banas> #link sarupbanskota.github.io
+16:10:49 <banas> eof
+16:11:32 <S-uriy-A> I was working with Robotics ... Dont think talking abt it wold make much of a sense here.....
+16:11:53 <banas> S-uriy-A: feel free to speak up anything absolutely :)
+16:13:01 <S-uriy-A> well then :) we were working on building a Quadcopter.... working on it :)
+16:13:31 <romil931> With vidya ma'am right?
+16:13:52 <S-uriy-A> Yeah... a small project wit mam :)
+16:14:05 <romil931> How much is done?
+16:14:55 <S-uriy-A> not mch for now... just ground work... got the components and doing a bit of study on it.
+16:15:11 <romil931> That's good :)
+16:15:32 <S-uriy-A> and was *inspired* by how BLENDER animation software works... really got interested into animation ......(Bought a mouse just for working in that software :D)
+16:15:41 <S-uriy-A> EOF
+16:16:05 <banas> S-uriy-A: since the chain is broken, suggest who goes next
+16:16:10 <abhishek> hi
+16:16:14 <nikam> that's cool..... naoj too there with you?
+16:16:41 <nikam> *manoj
+16:16:41 <S-uriy-A> sorry... i didnt know abot the hierarchy !!
+16:16:45 * banas romil931 how is hyderabad's airport?
+16:16:50 <banas> sorry
+16:17:06 <romil931> That is an amazing place.
+16:17:10 <S-uriy-A> Yeah Manoj is with us ... :)
+16:17:23 <abhishek> @suriya, no heirarchy :p see that list to your left, last time we went top-down
+16:17:33 <abhishek> let's go bottom up today
+16:17:38 <abhishek> :D
+16:17:44 <banas> sorry I meant it to be a pm ;)
+16:17:53 <banas> or just let S-uriy-A say who goes next
+16:17:54 <basee> ::
+16:18:19 <romil931> @banas it is like a mall past security check
+16:18:20 <nikam> awesome...you guys :)
+16:18:33 <basee> going in any sequence??
+16:19:14 <nikam> yeah, S-uriy-A tell who's next!
+16:19:22 <S-uriy-A> first of all I dont know who is aiswarya....basee....glitterfox....prasanth_
+16:19:34 <nikam> just say any name :P
+16:19:45 <S-uriy-A> sorry if i am annoying here ! :(
+16:19:57 <abhishek> glitterfox is sarup's IRC robot
+16:19:57 <glitterfox> No idea!
+16:20:00 <basee> basee basil dude cse a
+16:20:05 <abhishek> suriya, chill karo
+16:20:18 <S-uriy-A> Hey Teddy :)
+16:20:18 <basee> aishwarya cse e
+16:20:23 <prasanth_> prasanth cse-e
+16:20:24 <nikam> I am Abhijeet, CSE- c  :)
+16:20:33 <S-uriy-A> i know u :D !
+16:20:38 <aiswarya> Hi..
+16:20:41 <basee> :/
+16:21:08 <Sriram_> @basil :)
+16:21:13 <aiswarya> Hi suriya
+16:21:28 <basee> hi hii hiiii
+16:21:28 <basee> ???
+16:21:54 <S-uriy-A> Hi aiswarya :) i guess u must be the one who posted on the group abt that Disney kindf Video :)
+16:22:29 <S-uriy-A> Hi all... now feels like Home :) ..know u all :)
+16:22:50 <S-uriy-A> I guess if we should continue.... Nikam buddy next... GSOC-ER ;) !
+16:23:12 <nikam> :p
+16:23:29 <nikam> http://n1kam.wordpress.com/2014/06/26/the-story-so-far/
+16:23:40 <nikam> thats my blog, pretty lame for now
+16:24:02 <nikam> i was working on mail composer for nokia touch devices
+16:24:13 <basee> dat was nyc @nikam
+16:24:19 <nikam> so my API sends a mail for now :)
+16:24:34 <S-uriy-A> awesome :) ... QT ;)
+16:25:12 <nikam> have long way to go to complete this thing, and lots of work after the project period ends too...,  S-uriy-A - yeah :)
+16:25:18 <romil931> That is good work.
+16:25:38 <nikam> and i have gained nearly 8-10 kilos, pants hardly fit now :(
+16:26:09 <romil931> Wait till you get back to college
+16:26:31 <nikam> hehe, romil931 - thanks :)
+16:27:04 <nikam> thats it, my basee - u next!
+16:27:34 <basee> I am doing ccna course here in this prison :'(
+16:27:55 <basee> n doing few coding in some or other platforms
+16:27:57 <aiswarya> Me too..
+16:28:05 * nikam can't stop laughing
+16:28:25 <basee> also for namesake am helping ravi for his project (infact I din do anythng till nw :P)
+16:28:40 <basee> next
+16:29:06 <aiswarya> I m also having same fate as basil.
+16:29:16 <aiswarya> But I like networking
+16:29:26 <aiswarya> Security hacking etc
+16:29:29 <S-uriy-A> u learn a lot about Networking rite :) thats cool :)
+16:29:30 <basee> @nikam yea u can laugh like anythng n u knw my pants r getting looseee :(
+16:29:31 <romil931> Well the course was your choice.
+16:29:44 <aiswarya> Ya
+16:29:51 <romil931> Maybe you guys can swap them :P
+16:30:13 <romil931> Grow up :P You are there and now make sure it wasnt in vain
+16:30:48 <basee> yeah but that instructor ^%$#%$#%$%
+16:30:49 <basee> :(
+16:31:04 <aiswarya> She is actually sweet...
+16:31:11 <romil931> Hahahahahaha :P
+16:31:28 <aiswarya> U should approach her watching her mood
+16:31:30 <basee> i know she s kind to gals but not with us atleast -_-
+16:31:42 <basee> uhh
+16:31:42 <basee> lol
+16:32:25 <aiswarya> :)
+16:34:08 <basee> hlooo anybody here??
+16:34:13 <prasanth_> i am working with my friends in an android project...........
+16:34:36 <basee> am sorry who s prashanth actually?
+16:34:53 <prasanth_> prasanth cse-e 3rd year
+16:35:13 <basee> 2nd year to 3rd year?
+16:35:18 <prasanth_> yup
+16:35:38 <romil931> What in android?
+16:35:39 <basee> okkk
+16:36:20 <basee> dult here???
+16:36:25 <prasanth_> android and embedded systems
+16:37:04 <romil931> IoT?
+16:37:25 <prasanth_> presently making a virtual controller for an rc car
+16:37:47 <romil931> That is a good move. Lot of people will want to invest.
+16:37:52 <romil931> Good job
+16:38:31 <prasanth_> for now enjoying holidays
+16:39:22 <basee> @banas there???
+16:39:33 <romil931> He ain't here
+16:39:38 <romil931> Neither is dult
+16:39:52 <nikam> so everyone's had their turn?
+16:39:55 <banas> I'm here
+16:40:02 <banas> sorry got missing for a while
+16:40:10 <romil931> Great.
+16:40:14 <banas> time for a topic change?
+16:40:34 <banas> ah wait, are guests allowed on the group? ;)
+16:40:45 <basee> @banas dude go for mcq type survey  next time pls
+16:40:47 <basee> kinda lazy
+16:40:49 <basee> :P
+16:40:57 <romil931> @banas it that? :P
+16:41:32 <banas> haha :D
+16:41:49 <romil931> hey @akshata
+16:41:53 <banas> okay akshata, this is the tech{know}logy club group in college
+16:41:53 <nikam> yes!
+16:41:54 <nikam> who is it?
+16:42:01 <banas> we're discussing what everybody is up this summer
+16:42:03 <akshata> hello!
+16:42:06 <banas> your turn now ;)
+16:42:15 <nikam> hi!
+16:42:23 <banas> nikam: she was annoying me on hangouts, so I got her here :P
+16:42:27 * banas hides
+16:42:39 <nikam> hehe :D
+16:43:38 <nikam> akshata: you too a FOSS contributor? :)
+16:45:05 <akshata> newbie! all thanks to sarup.
+16:45:10 <basee> akshata a gal??? :P
+16:45:21 <akshata> been picking up some rails and ruby the past few weeks
+16:45:28 <akshata> wbu nikam?
+16:46:07 <basee> rails n ruby   :P  so u r sarup fan ryt  :P :P
+16:46:31 <nikam> oh, nice! I am working on a project - a mail composer for KDE :)
+16:46:44 <akshata> hahaha you could say that
+16:46:51 <akshata> oh that sounds cool nikam :)
+16:47:14 <romil931> @akshata they really dunno who you are :P
+16:47:21 <nikam> actually we all are :p
+16:47:30 <romil931> @banas wanna come out of hiding :P
+16:47:34 <basee> tru /// who r u atually
+16:47:43 <banas> ok, I'm back. :D
+16:47:44 <basee> actually
+16:47:56 <banas> phew. theese guys need to know their math,
+16:47:58 <nikam> true true :p
+16:48:04 <romil931> :P
+16:48:09 <banas> anyway, glitterfox is my bot
+16:48:12 <akshata> a friend sarup met at a ruby conf :)
+16:48:17 <banas> I am akshata's bot
+16:48:23 <banas> hope it makes things clear :P
+16:48:29 <romil931> Hahahahaha :P
+16:48:44 <S-uriy-A> Welcome here :)
+16:48:46 <romil931> @akshata a friend?? :P
+16:48:57 <romil931> Hope this makes things clear
+16:49:01 <akshata> yeah :P
+16:49:02 <basee> glitterfox what's this????
+16:49:02 <glitterfox> Dunno, basee.
+16:49:12 <akshata> okay you guys go ahead, you were talking about ..?
+16:49:23 <banas> okay, next topic
+16:49:25 <banas> but please
+16:49:28 <romil931> Yes
+16:49:34 <banas> one thing I really need to emphasize again
+16:49:40 <romil931> Fun over. Back to the topic
+16:49:42 <basee> yea
+16:49:43 <S-uriy-A> okay guys lets move to '3.' in our agenda ?
+16:49:51 <banas> IRC etiquettes.
+16:49:52 <nikam> alright!
+16:50:07 <banas> No extra punctuation, proper words, sane replies. :)
+16:50:19 <banas> what's the next thing in the agenda?
+16:50:48 <nikam> yes, video + including the alumni in it
+16:51:05 <banas> #topic Induction - Video + Alumni Invites
+16:51:06 <nikam> who's taking responsibility for it?
+16:52:49 <romil931> People just ran off?? :P
+16:53:11 <nikam> who made the video for our CSE induction? it was pretty awesome
+16:53:24 <romil931> Anirudh menon
+16:53:48 <S-uriy-A> *Media* I am in for Help . But not so good enough to do it myself .
+16:54:01 <S-uriy-A> I will help in Poster and Video.
+16:54:01 <basee> yea dat was really gud
+16:54:27 <prasanth_> we can include sambhav too
+16:54:41 <basee> get that aanchal too
+16:54:47 <S-uriy-A> Yeah , I remember. Like a picture video, we could try this time too.
+16:55:02 <banas> abhishek: you had a creative roomate/friend, innit?
+16:55:39 <nikam> Can he help us in this? Or do we have some great editors in this list?
+16:55:53 <nikam> Thanks S-uriy-A, but would you  like to go with with poster or videos?
+16:57:34 <S-uriy-A> Both a little. Have worked with Photoshop and old like to work on Aftereffects :)
+16:57:52 <S-uriy-A> *would
+16:57:57 <Sriram_> I haven't experimented with videos and stuffs. But can definitely contribute as much as I can. I have worked with photoshop.
+16:58:13 <Sriram_> @basil  what about vikram
+16:58:20 <romil931> Then it is a good time to learn
+16:58:42 <Sriram_> isn't he good in video editing stuffs
+16:58:50 <Sriram_> yeah
+16:59:02 <nikam> right, sambhav *has* to do the poster,  but we do need 2-3 people with him - design, get the permit, printing, sticking it - the whole thing! If we assign roles now, we don't have to catch people later
+16:59:25 <basee> yeah
+16:59:27 <basee> vikram
+16:59:35 <S-uriy-A> me in for Design !
+16:59:42 <basee> hes gud at photography n video stuffs n all
+16:59:46 <basee> catch em up
+17:00:16 <banas> if you have questions about permits, feel free to ask me :)
+17:00:28 <basee> suri vikram cse a
+17:00:37 <nikam> done, anyone else volunteering to help them with the poster and promo work? And S-uriy-A, your job also includes other things :)
+17:00:46 <aiswarya> Me anchal and gayathri would like to help with videos
+17:01:02 <nikam> @banas - don't leave us!!
+17:01:20 <prasanth_> me in for permits and other things
+17:01:22 <banas> leave? I'm right here man
+17:01:57 <nikam> aishwarya: that's great! do you have any prior experience?
+17:02:03 <banas> I won't help with permits this time, but I can tell you what it's like - posters is not too difficult
+17:02:35 <prasanth_> yeah i had experience
+17:02:42 <nikam> yeah, just tell us how it goes
+17:02:51 <nikam> in?
+17:03:22 <aiswarya> Not much with Photoshop .but v have done videos in powerpoint
+17:03:32 <S-uriy-A> okay one question of the current topic.... when are we tentatively having our induction ?@banas
+17:03:51 <aiswarya> To create b'day videos to gift our frnds..will that be fine?
+17:04:03 <prasanth_> taking permits,, i am working with sahaya club(needs a lot of permits)
+17:05:00 <abhishek> hey, I met anirudh (sarup's roommate who made the club induction video) a few days back
+17:05:11 <nikam> around 12th august, right basee?
+17:05:14 <abhishek> fellow's too caught up with summer courses
+17:05:14 <banas> I'll be back in sometime guys. when you need to change topic, one of the chairs do a #topic <topicname>
+17:05:39 <abhishek> when I asked him for help with the playwright
+17:06:01 <abhishek> but looks like he'll come around, I'll speak to him again soon :)
+17:06:49 <nikam> aiswarya: that's good, but we would like is having some pictures and real people in it - synchronized?
+17:07:13 <nikam> abhishek: any progress wih the play?
+17:08:30 <aiswaryav> For posters aparna and boomika van help
+17:08:36 <abhishek> I made some comics
+17:08:37 <aiswaryav> *can
+17:08:50 <abhishek> trying to highlight the flow of thought
+17:12:20 <nikam> aiswaryav: posters -  i think 2-3 people are enough, Can they help in those big banner and poster on the stage wall, and outside?
+17:12:35 <aiswaryav> Ya...sure
+17:12:45 <nikam> abhishek: decide it soon, you may need a team and some practice!
+17:12:57 <sarmishta> Hi, Amara Gayathri Sarmishta here :)
+17:13:22 <nikam> aiswaryav: cool! just make sure they don't back out that time :)
+17:13:27 <nikam> hi!
+17:13:48 <aiswaryav> No no..I can help in that too
+17:14:13 <sarmishta> so how many ppl for the video??
+17:14:31 <aiswaryav> Lot s I think
+17:15:46 <aiswaryav> Sarmishta:So v can help them with big banners and posters
+17:16:02 <sarmishta> sure :)
+17:16:25 <sarmishta> Guys will do a better job for posters right!
+17:16:30 <nikam> any awesome ideas for videos?
+17:17:18 <sarmishta> I just felt cartoons would be a bit lame. What do u guys say?
+17:17:44 <nikam> yes, we have people. But we do need people for the stage art and banners.
+17:18:14 <sarmishta> Where are you gonna put the banners?
+17:18:16 <aiswaryav> It depends on how we put that in our video right..? Because they can be catchy
+17:18:27 <aiswaryav> Cartoons
+17:18:59 <sarmishta> heyy anchal !!
+17:19:08 <anchal> Hi gayatri !
+17:19:53 <nikam> outside, on the stage wall?
+17:20:21 <sarmishta> didnt get u nikam
+17:20:42 <aiswaryav> Ok ppl bye bye...I m leaving.sarmishta and anchal @ pls. Let me know the updates
+17:21:11 <anchal> yeah sure ;)
+17:21:14 <sarmishta> ok !! bye
+17:21:49 <nikam> we can't leave the stage back ground blank , right?
+17:22:20 <sarmishta> oh yaa..
+17:23:33 <nikam> is anyone else alive?
+17:23:41 <anchald> Me !
+17:23:42 <sarmishta> environment seems to be a bit dull ! ;-)
+17:23:43 <Suriya> Me
+17:24:00 <Suriya> Yeah we need an interesting banner....
+17:24:04 <basee> gud mrng :D
+17:24:59 <nikam> Thanks
+17:25:07 <nikam> for the enthusiasm :p
+17:25:08 <Sriram_> how would it be if we try to make a bot talk a few things about the club in the video?
+17:25:08 <Suriya> Anybody... When is the induction ?
+17:25:23 <nikam> awesome idea
+17:25:35 <Sriram_> probably on 12th of august
+17:25:42 <Sriram_> when is it basil?
+17:25:43 <Suriya> U mean a real bot ? Physical one?
+17:25:49 <basee> its 12th aug not probablr
+17:25:51 <sarmishta> thats super cool idea..But is it possible?
+17:26:00 <nikam> if it just talked! we can make it text... but talk...?
+17:26:04 <basee> glitterfox sleeping?
+17:26:04 <glitterfox> No idea, basee.
+17:26:11 <basee> wake p dude
+17:26:16 <nikam> but nice idea Sriram_
+17:26:17 <basee> up*
+17:26:20 <Sriram_> we  got to dub it with an appropriate voice
+17:26:35 <Suriya> Okay now i get it...
+17:26:38 <basee> glitterfox say hello
+17:26:38 <glitterfox> I have no idea!
+17:27:05 <basee> glitterfox say hello not texting just say hello
+17:27:05 <glitterfox> I have no idea, basee.
+17:27:15 <Suriya> Can somebody explain me what this bot is and how exactly does it work?
+17:27:18 <basee> glitterfox idiot
+17:27:18 <glitterfox> Wish I knew, basee.
+17:27:24 <sarmishta> my frnd browsed about making them talk..but its vry tedious
+17:27:56 <nikam> we can make dult or someone type things in the background!
+17:28:19 <sarmishta> #basee u woke up & trying to wake up other souls too ;-) (y)
+17:28:33 <nikam> typing weird comments on watever we do
+17:29:00 <nikam> glitterfox love
+17:29:00 <glitterfox> Rumor has it love is I love you too, nikam
+17:29:05 <sarmishta> that must be ther..
+17:29:10 <nikam> i love you too :*
+17:29:29 <Suriya> Hi glitterfox
+17:29:41 <sarmishta> we had snr doing that for our induction
+17:29:50 <make> @nikam make a wish
+17:29:53 <sarmishta> he did an awesome job !
+17:30:04 <make> I can get rid of ur boredom
+17:30:51 <nikam> who are you? :P
+17:30:51 <Suriya> glitterfox hi
+17:30:51 <glitterfox> Dunno!
+17:30:57 <nikam> LoL
+17:31:06 <make> dunno!
+17:31:14 <make> who are you
+17:31:16 <sarmishta> i think we  can take that snrs help for that
+17:31:26 <make> who is sarmishta a saint
+17:31:27 <make> ??
+17:31:29 <nikam> for what?
+17:31:34 <sarmishta> yep ;-)
+17:31:44 <nikam> hehe
+17:31:46 <make> make a wish saint
+17:31:47 <sarmishta> for the wierd comments
+17:32:01 <Suriya> Okay may i know who is sarmistha ? Hi  :)
+17:32:07 <make> I wish i know that!
+17:32:14 <sarmishta> please bring all the left out ppl back to IRC make :-P
+17:32:16 <make> wait let me guess
+17:32:26 <make> I wish I could
+17:32:31 <make> sorry sarmishta
+17:32:41 <make> YES i got it
+17:32:46 <make> sarmishta is a boy
+17:33:02 <make> Amara gayathri sarmishta
+17:33:03 <sarmishta> plssss _/\_
+17:33:12 <sarmishta> Gud mrng :-P
+17:33:14 <make> Dunno!
+17:33:30 <nikam> make, would you liked to be kicked out? :p Who are you??
+17:33:31 <make> its jus 23:01 not morning yet
+17:33:42 <make> I wish I could
+17:34:03 <sarmishta> arey i said you realised it so late :-P
+17:34:07 <basee> whos it @nikam?
+17:34:24 <sarmishta> sleepy..pls get bck to discussion !
+17:34:35 <make> ok get in
+17:35:29 <sarmishta> souls that are alive.Pls make the discussion lively :)
+17:35:37 <nikam> okay make, is that your new name?
+17:35:39 <Suriya> Lets make a picture video with all the people of tknow..... Like how we have fun in this club
+17:35:56 <nikam> +1 , great idea
+17:36:13 <sarmishta> thats great !!
+17:36:29 <nikam> we can put weird music and comments :p
+17:36:36 <make> Dunno!
+17:37:10 <basee> am sleepy can u all disscus smething serious
+17:37:16 <make> sure basee
+17:37:28 <sarmishta> nikam, made any conclusions?
+17:38:08 <Suriya> Okay one question...
+17:38:17 <nikam> hey, its a weird idead, but will look funny in stage - we can introduce people on stage like how a WWE anchor does? :p and we all can come on stage with some background music?? to showcase the members after the program?
+17:38:57 <nikam> im knid of dying with the discussion without any solid conlusions everytime...
+17:38:57 <sarmishta> interesting !!
+17:38:57 <basee> it wl b nyc with sarup n nishanth :P
+17:39:04 <make> +1
+17:39:18 <sarmishta> yaa..what happened to them?
+17:39:22 <nikam> what?
+17:39:24 <Suriya> Yeah .... Where is banas ?
+17:39:39 <basee> Sriram_ there???
+17:39:40 <nikam> nishaanth's net is down
+17:39:47 <Suriya> Nice idea ... @nikam
+17:39:53 <make> mine too
+17:40:14 <Suriya> What is urs ?
+17:40:36 <Suriya> What are the different areas of the club ?
+17:40:42 <make> I could I wish
+17:40:44 <sarmishta> no probs ppl..we have got 4 new ideas i guess !!
+17:40:44 <banas> back
+17:40:44 <sarmishta> :D
+17:40:50 <Suriya> :)
+17:41:04 <sarmishta> a bottle of energy ppl ;-) :-D
+17:41:12 <nikam> we can have 2 anchors announcing like.... weighing over 220 pounds and over some inches - next coming on stage is... is the biggggggggg and mightttttttyyyyyy....... Basssssssssilllllllllll........ and he walks up with some weird music :p
+17:41:17 <sarmishta> thank u @banas
+17:41:29 <basee> uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+17:41:30 <basee> dudeeee
+17:41:34 <basee> 220??
+17:41:39 <nikam> in style :p
+17:41:47 <make> @nikam +1
+17:41:57 <nikam> LoL, @banas - meetings getting dead!
+17:42:03 <sarmishta> hahaa..imagining is more fun
+17:42:22 <banas> what happened?
+17:42:24 <basee> -_
+17:42:26 <basee> -_-
+17:42:28 <nikam> just a guess :p
+17:42:32 <banas> I'm kinda stuck with the tickets.
+17:42:45 <nikam> everyone's introduction on stage can be like that!
+17:43:01 <basee> wth a yellow band !!!
+17:43:07 <nikam> we were just discussing an idea of introducing all the core members on the stage in a fun way
+17:44:37 <banas> nice :D
+17:44:40 <banas> contrinue :)
+17:44:48 <make> +1
+17:45:58 <Suriya> @banas... What are the diff areas of the club?
+17:46:49 <sarmishta> finding gud background instrumentals is another job for us nw for 1.Advertising video 2.Introducing core crew 3.Fun at tknow
+17:47:18 <sarmishta> so we need to start searching for different catchy & enthusiastic genres too !!
+17:47:47 <nikam> and for the video - @banas - any weird ideas? where wecan make it more awesome? i was thinking showing things like people developing robots, ICPC Coding, awesome alumni's, meetings in the lawn, hangers etc in the video?
+17:48:04 <banas> yes that sounds neat!
+17:48:11 <banas> ask anirudh he may have ideas
+17:48:27 <Suriya> Yeah cool...;)
+17:48:42 <abhishek> we could do a timelapse 'day in a geek's life'
+17:48:47 <nikam> yes, if he helps - it would be awesome. @banas, will he be free?
+17:48:59 <basee> anirudh is here at colg
+17:48:59 <nikam> like?
+17:49:19 <basee> btwn anyone of u hav jeevitha maams number?
+17:49:21 <nikam> so can somebody just ask him??
+17:50:38 <nikam> no
+17:50:57 <basee> @banas u??
+17:51:12 <banas> I don't sorry!
+17:51:20 <basee> ohkk
+17:51:29 <sarmishta> In the video We should also give them some enthu by telling abt the fun to tinker with the system & play with it by changing the settings :D
+17:52:18 <sarmishta> thats the way we can invite them to join us to the open source world !
+17:52:58 <nikam> hmm... we need people taking  up the job. Who's taking it up? video part? You don't have to do it yourself but make sure it happens! and is awesome
+17:54:17 <abhishek> i spoke to anirudh
+17:54:24 <abhishek> some days back
+17:54:39 <abhishek> he's currently caught up with summer courses
+17:54:47 <abhishek> says he doesnt have much time
+17:55:06 <abhishek> but he'll be able to pitch in once coll starts (maybe)
+17:55:11 <nikam> maybe some one else?
+17:55:31 <sarmishta> so,Lets try to make some effort before he joins us !
+17:57:38 <sarmishta> I think we need to take up an initiative thou none of us is an expert in this job..only then, they can beautify it !!
+17:57:45 <nikam> guys i am tired, some other day for now? But we really need more participation and some firm descisions
+17:57:49 <sarmishta> in a short time with us
+17:57:55 <nikam> yes
+17:58:36 <sarmishta> wait for few mins nikam
+17:58:37 <AndroUser2> Yeah next time... Lets brain Strom on ideas....
+17:59:02 <AndroUser2> Lets start rightaway the next time...
+17:59:13 <abhishek> yea, no waiting much for ppl
+17:59:16 <sarmishta> for now lets distribute few jobs between us..so that this meetup will not be a waste :)
+17:59:52 <nikam> i'll handle the anchors and organising the event sequence for the day
+18:00:04 <sarmishta> (y)
+18:00:15 <nikam> who's taking the video job?
+18:00:20 <sarmishta> i'll start making up a sample video
+18:00:43 <nikam> that's good, get in contact with anirudh - oing him, ask if he can help
+18:00:48 <nikam> *ping
+18:01:06 <abhishek> I'll ask him again
+18:01:06 <sarmishta> i tried to..i dont c him on fb now-a-days too
+18:01:35 <sarmishta> can anyone else help me out with the video job?
+18:02:29 <nikam> abhishek: please by the next meeting, have a a concrete idea and number of people you may require in mind
+18:02:32 <AndroUser2> I will help with the video job...
+18:02:45 <nikam> who are you? :)
+18:02:55 <sarmishta> extremely sry.. who is this?
+18:02:56 <AndroUser2> Suriya da...
+18:03:20 <AndroUser2> Hi I am Suriya cse b 2nd year...
+18:03:33 <sarmishta> well :) (y)
+18:03:40 <sarmishta> so who is up for the poster??
+18:03:57 <AndroUser2> I will keep sambhav with it too ....
+18:03:59 <nikam> awesome, just give a start, it'll be awesome. I'll tell sambhav to start designing the prototype of the poster
+18:04:14 <nikam> yes, that will be fine :)
+18:04:46 <nikam> @banas
+18:05:09 <nikam> you can take glitterfox for now :)
+18:05:30 <nikam> glitterfox, tired?
+18:05:30 <glitterfox> I have no idea.
+18:05:37 <nikam> :D
+18:05:50 <sarmishta> ok..only banner is left i guess??
+18:06:23 <nikam> yes, but aishwarya said- she'll give  a hand in it - with bhoomika and one more gal helping her out
+18:06:40 <sarmishta> yaa..aparna !!
+18:06:56 <sarmishta> so problem solved..distributions done right?
+18:07:06 <banas> nikam: what's up?
+18:07:09 <AndroUser2> Cool...
+18:07:14 <banas> meeting over? ;)
+18:07:21 <AndroUser2> So when are we meeting next...
+18:07:29 <nikam> yeah :p
+18:08:23 <nikam> maybe after a week, and it would be pointless if so few people attend it, we need more - atleast all core members for descisions
+18:08:39 <sarmishta> glad that main things are discussed & assignment of works have been done :)
+18:08:45 <nikam> we'll decide the amount and treasurer in the next meet
+18:08:51 <nikam> yup
+18:08:57 <nikam> some part of it :)
+18:09:16 <sarmishta> yaa..true. Probably if we ready with some stuff prepared..that wud be a pulling force
+18:10:08 <sarmishta> enough for today..gud night :)
+18:10:54 <suriya> Ok bye guys... Catchu all soon... Good night... :)
+18:11:38 <nikam> @banas
+18:11:42 <nikam> we leaving
+18:11:49 <nikam> bye :)
+18:12:10 <nikam> abhishek: you can ping out too
+18:13:34 <banas> #endmeeting
