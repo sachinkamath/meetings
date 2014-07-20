@@ -1,0 +1,775 @@
+16:56:53 <banas> #startmeeting Pre-college meeting
+16:56:53 <glitterfox> Meeting started Sat Jul 19 16:56:53 2014 UTC and is due to finish in 60 minutes.  The chair is banas. Information about MeetBot at http://wiki.debian.org/MeetBot.
+16:56:53 <glitterfox> Useful Commands: #action #agreed #help #info #idea #link #topic #startvote.
+16:56:53 <glitterfox> The meeting name has been set to 'pre_college_meeting'
+16:56:55 <brooklyn> he told make the club more social looking , u know , so that a teenagers mind gets attracted
+16:57:22 <nikam> guys, i think... we would we can set the deadline of the video by 27th July?
+16:57:22 <banas> what's the current topic?
+16:57:22 <brooklyn> then we can make him go into tech
+16:57:45 <basee_> yess we need dead line for many things'
+16:57:45 <basee_> +!
+16:57:48 <basee_> +1
+16:57:52 <banas> #topic Video and content deadline
+16:57:57 <suriya> Okay.. Deadline for intro first...
+16:58:21 <basee_> so aiswarya suria n all submit the video on 27th
+16:58:26 <basee_> k?
+16:58:28 <nikam> i think 27th august is good, we get time after that
+16:58:34 <nikam> banas?
+16:58:34 <glitterfox> I guess banas is akshata's bot, nikam
+16:58:45 <banas> lol :D
+16:58:51 <basee_> 27th aug???
+16:58:51 <brooklyn> Lol
+16:58:51 <basee_> wat?
+16:58:51 <glitterfox> I guess wat is dis I dnt evn, basee_
+16:58:52 <ravi_> lol
+16:59:10 <aiswarya> Ok!  ANCHAL IS already working on it.
+16:59:16 <suriya> 27th aug... I am fine ...
+16:59:17 <gameface22> glitterfox sucks
+16:59:17 <glitterfox> I have no idea, gameface22.
+16:59:19 <brooklyn> @ banas, i understood what glitterfox was trying to mean :P
+16:59:37 <basee_> hlooo dude aug 27th wat the///??
+16:59:43 <basee_> its july 27
+16:59:43 <banas> brooklyn: :D
+16:59:53 <brooklyn> guys 12 th august is our induction -_-
+16:59:54 <nikam> sorry
+16:59:58 <nikam> 27th july :p
+17:00:00 <suriya> Its tooooo soon..
+17:00:01 <gameface22> nikam: video done. Next?
+17:00:12 <gameface22> glitterfox:who is Sambhav
+17:00:13 <banas> ok set it as a deadline
+17:00:39 <basee_> suriya is tat fine/./? u gt 8 days
+17:00:40 <basee_> ookee/
+17:00:41 <basee_> ?
+17:00:42 <banas> #info Deadline for videos: 27th July
+17:00:52 <nikam> done
+17:01:09 <suriya> I think we should meet up once our college starts.. ASAP
+17:01:10 <suriya> NO DUDE
+17:01:13 <gameface22> NO?
+17:01:26 <nikam> what?
+17:01:27 <suriya> wont be possible... Will try though...
+17:01:46 <banas> #topic Club Treasurer
+17:02:02 <basee_> we neeeddddd fund!!!
+17:02:12 <nikam> suriya: Just a rough video, on what you guys are working on - last year they made it in a day or two
+17:02:13 <suriya> Okay lets it have it like that for now.. We shall talk again once college reopens...
+17:02:23 <brooklyn> ok,who doesnt go too much to the canteen??
+17:02:29 <nikam> suriya: but just start working
+17:02:43 <suriya> Okay okay...
+17:02:51 <nikam> it'll be an awesome thing for the club, we'll play it on the induction day too
+17:03:01 <nikam> ok guys
+17:03:13 <nikam> I nominate basil for the job
+17:03:19 <brooklyn> actually, i know a pro video guy, he makes movies also, he is my clasmate , what say ?
+17:03:30 <basee_> for?
+17:03:40 <gameface22> but Suriya is already doing it
+17:03:43 <nikam> get suriya in touch with him?
+17:03:46 <brooklyn> ok cool
+17:03:47 <suriya> Sure would be glad...
+17:03:48 <gameface22> and he's good in animation also
+17:03:52 <nikam> together will be more good
+17:03:57 <suriya> U mean udit rite?
+17:04:04 <brooklyn> dei vishnu da
+17:04:05 <gameface22> Nope. Vishnu
+17:04:17 <gameface22> glitterfox
+17:04:19 <basee_> okk let vicky handle that @nikam
+17:04:22 <basee_> vikram
+17:04:25 <suriya> Okay.. Plz get me in touch with him..
+17:04:29 <banas> ok do a vote
+17:04:49 <suriya> If he is ready to help.. I am more than happy to have more company...
+17:04:52 <nikam> I think basee will do it well, what say guys?
+17:05:01 <gameface22> Yes ;)
+17:05:03 <gameface22> +1
+17:05:10 <nikam> Treasurer
+17:05:14 <Vikram> +1
+17:05:15 <basee_> go for a vote naa
+17:05:39 <banas> there's just one option, so no votes :)
+17:05:46 <brooklyn> LOL
+17:05:54 <nikam> everyone ok with basee_ ? anybody else wnats to volunteer?
+17:05:55 <basee_> but who wl assist me/
+17:05:57 <gameface22> Treasurer --> Basil. What next
+17:06:10 <suriya> Cool
+17:06:11 <basee_> but sm one too
+17:06:12 <Vikram> @suriya: Can I help u in dng videos
+17:06:12 <basee_> with me
+17:06:15 <basee_> i neeeed
+17:06:25 <nikam> Sriram, mone, aiswarya -> become active please!!
+17:06:26 <suriya> Sure viku..
+17:06:32 <Sriram> yeah
+17:06:36 <suriya> Please join..
+17:06:37 <basee_> mone will u b with me?
+17:06:45 <aiswarya> Yeah m here
+17:07:14 <Vikram> +1
+17:07:32 <nikam> basee_ its not a big job, there are hardly 10-15 people :p you just need to take care of the funds
+17:07:39 <aiswarya> +1
+17:07:55 <banas> #info The treasurer is Basil. Treat's next Sunday, everyone's invited
+17:07:55 <mone> basee_ yess i can help
+17:08:15 <ravi_> hey.!! basee treat.!!!
+17:08:22 <basee_> treat uhhh  ??? ?? ?
+17:08:24 <brooklyn> outing treat, no canteen
+17:08:25 <Sriram> @nikam what should I do?
+17:08:36 <gameface22> Okay. What's next?
+17:08:38 <brooklyn> whatever u want to do
+17:08:40 <basee_> next topic
+17:08:51 <basee_> contribute money
+17:08:58 <nikam> Sriram: You need to voulunteer for one of the jobs as they come by?
+17:08:59 <basee_> let me become rich  :P
+17:09:09 <Sriram> ok fine
+17:09:13 <brooklyn> and then poor on sunday
+17:09:20 <brooklyn> :P
+17:10:10 <gameface22> 100
+17:10:22 <gameface22> Will that suffice? :P
+17:10:22 <nikam> what I propse is everyone should have a cool tknow shirt and we need bands as swag on that day!
+17:10:29 <nikam> banas?
+17:10:29 <glitterfox> Somebody said banas is akshata's bot, nikam
+17:10:29 <brooklyn> suddenly everybody became quite :P
+17:10:45 <brooklyn> Lol again
+17:11:02 <banas> nikam: if you need tshirt, im afraid you may be late
+17:11:02 <brooklyn> u chatting on irc with her?
+17:11:08 <banas> brb, 1 min'
+17:11:08 <gameface22> glitterfox SHUT UP
+17:11:08 <glitterfox> Wish I knew.
+17:11:21 <brooklyn> Lol
+17:11:21 <nikam> :p
+17:11:31 <brooklyn> bulb @gameface
+17:11:37 <gameface22> nikam: are we getting stickers?
+17:11:39 <banas> he's my bot ;), gameface22
+17:11:39 <basee_> nop u wl gt in max 10 days
+17:11:42 <basee_> i can arrange it
+17:11:53 <gameface22> banas: I know :P
+17:12:09 <basee_> stickers gameface22 can elp
+17:12:09 <basee_> isn't
+17:12:16 <basee_> it?
+17:12:16 <gameface22> Yes.
+17:12:21 <nikam> okay -> basee_ ur job for the induction: arrange the tshirt and bands and hanfle the money
+17:12:22 <basee_> gud
+17:12:26 <gameface22> We will order it soon.
+17:12:40 <banas> basee_: you have about 20 days, but you need to design and more importantly, raise the money for advance
+17:12:41 <basee_> ok i agree
+17:12:55 <basee_> n hope i could tell the amount on next meetup frm colg
+17:13:03 <banas> #info Mr. Treasurer to look into tshirt + band arrangements
+17:13:25 <nikam> so what's the amount to be paid?
+17:13:26 <basee_> fine but the design??
+17:13:27 <basee_> i donno
+17:13:30 <basee_> -_-
+17:13:34 <banas> For the amount
+17:13:37 <banas> do this
+17:13:40 <nikam> sambhav? can you help him in that?
+17:13:41 <banas> sell out tshirts
+17:13:48 <basee_> lol
+17:13:49 <banas> charge extra money for non-core folk
+17:14:04 <basee_> @banas gud
+17:14:05 <basee_> +1
+17:14:09 <nikam> banas: will anyone buy?
+17:14:18 <basee_> target on first years
+17:14:19 <gameface22> first years will buy :P
+17:14:25 <banas> if your tshirt costs 200, ask non members for 400. members get it for 175
+17:14:26 <brooklyn> ya the yare first years aftr all
+17:14:34 <nikam> brooklyn: can you help in design of the shirt?
+17:14:40 <banas> well, you were sold your tshirts for almost twice the price ;)
+17:14:49 <basee_> brroklyn u must help
+17:15:03 <gameface22> banas: how did you design previous year's t shirt
+17:15:06 <basee_> wat abt the tshirt colour ?/
+17:15:07 <banas> but you have a larger audience and we had huge constraints
+17:15:14 <basee_> yellow??
+17:15:14 <gameface22> we will follow the same
+17:15:14 <basee_> ?
+17:15:23 <gameface22> basee_: BLUE
+17:15:23 <banas> basee_: stick with white/gray/black. cheaper
+17:15:26 <mone> what color ??
+17:15:30 <nikam> brooklyn: only the design -> basee_ takes care of the arrangements
+17:16:03 <basee_> ohkk
+17:16:03 <basee_> last tym madhu designd
+17:16:03 <banas> personally i would go against black because I have WAY TOO MANY of them!
+17:16:03 <gameface22> why not blue banas
+17:16:03 <basee_> lol
+17:16:09 <gameface22> white/blue/yellow
+17:16:09 <basee_> blue wl cost
+17:16:19 <aiswarya> Hi this is anchal from aiswarya's account.
+17:16:33 <brooklyn> @nikam : gameface doesnt want black too :P
+17:16:35 <banas> gameface22, basee_ nikam start collecting money + names right now
+17:16:41 <basee_> btwn there were sm issues last year once @banas tld that poornima tld they couldn't wear it
+17:16:45 <basee_> sm thing blah blah
+17:16:46 <banas> you'll need to know how to market though ;)
+17:16:47 <nikam> brooklyn: LoL
+17:16:47 <basee_> any issues?
+17:16:58 <banas> Let me give you some tshirt gyan
+17:17:04 <nikam> alright
+17:17:08 <banas> 1) Collect money in advance, start collecting money today
+17:17:14 <banas> okay lets make this info
+17:17:20 <banas> # topic tshirt gyan
+17:17:27 <banas> #topic tshirt gyan
+17:17:40 <banas> #info 1) Collect money in advance, start collecting money today
+17:17:49 <basee_> let us put up 200 as advance for both tshirt n band
+17:17:53 <banas> #info 2) Make sure to cater for girl sizes
+17:17:53 <basee_> is dat fyn all??
+17:18:10 <nikam> let banas finish
+17:18:23 <banas> #info 3) Choose gray/white for primary color, they're cheaper.
+17:18:55 <banas> #info 4) Don't use a dark color for the main graphic, when it fades it becomes more apparent
+17:19:10 <banas> #info 5) Crew names on the back is cool, but costs money so plan in advance
+17:19:44 <basee_> +1
+17:19:51 <banas> #info 6) This is when the first year's are most clueless about stuff, so if you want to sell overpriced stuff to make the college money, this is the time
+17:20:02 <suriya> @banas... U are awesome man.. (Y)
+17:20:05 <banas> #info 7) Keep bills for everything, because people will ask.
+17:20:10 <banas> that's all :)
+17:20:28 <basee_> ohkkk tq @bnas
+17:20:29 <banas> #undo
+17:20:29 <glitterfox> Removing item from minutes: <MeetBot.ircmeeting.items.Info object at 0x1ad4dd0>
+17:20:31 <nikam> banas: crew names is cool idea - we can use nicks. Ur my guru _/\_
+17:20:32 <banas> #undo
+17:20:32 <glitterfox> Removing item from minutes: <MeetBot.ircmeeting.items.Info object at 0x1ad4d50>
+17:20:46 <banas> #info 6) This is when the first year's are most clueless about stuff, so if you want to sell overpriced stuff to make the club money, this is the time
+17:20:53 <banas> #info 7) Keep bills for everything, because people will ask.
+17:21:00 <banas> yep, good luck!
+17:21:03 <nikam> okay guys, amount to be paid
+17:21:13 <gameface22> 200 will do?
+17:21:25 <banas> I vouch for 100, but I think thats something you should ask when more people are there
+17:21:27 <brooklyn> ok gameface alonme pays 400
+17:21:28 <basee_> i wl tl u nxt week
+17:21:31 <basee_> is dat fyn?
+17:21:54 <nikam> for tshirt and bands??
+17:22:00 <banas> You don;t want the most active folk paying more money when they're putting in time + money
+17:22:15 <basee_> brooklyn design posters for tshirt marketing too
+17:22:55 <banas> #action basee_ Report quotes for tshirt and bands
+17:22:55 <brooklyn> @ banas +1
+17:22:55 <nikam> banas: but initially? we need tshirts for induction right?
+17:23:11 <banas> nikam: I don;t follow
+17:23:22 <basee_> is everyone fyn with last year's design if no wat change u need?
+17:23:38 <banas> basee_: of course change the design! why would you reprint the same tshirt!
+17:23:44 <brooklyn> lets make it grey\
+17:23:50 <nikam> we need some initial funding for the crew shirts + bands before we can sell some, where do we get that from?
+17:23:56 <banas> oh by quotes I mean, price btw
+17:24:10 <banas> nikam: that's what you'll pay right now
+17:24:19 <basee_> @banas can u ask jeevitha maam for the intial fund??
+17:24:19 <banas> and get back later once they're sold
+17:24:32 <nikam> so how much should that be?
+17:24:37 <banas> basee_: you're the treasurer ;)
+17:24:38 <basee_> dult advised me not to go for that
+17:24:40 <banas> see, do this
+17:24:44 <banas> this is what i did last time
+17:24:45 <basee_> first to take orders in hand
+17:24:55 <basee_> yepp
+17:24:56 <banas> ok, ill add more info wait
+17:25:20 <banas> #info 8) Make people pay more if they're going to pay for tshirts once they receive it
+17:25:39 <brooklyn> nice
+17:25:40 <banas> lol, ironically, it converted to the 8) smiley :D
+17:25:51 <banas> so those who pay advance, pay 320 for a tshirt
+17:25:59 <banas> those who pay later, pay 420
+17:26:02 <nikam> yup
+17:26:10 <nikam> + bands?
+17:26:12 <basee_> lol
+17:26:28 <nikam> lets make it 350, we'll recover it later?
+17:26:43 <banas> no this is not exact value. I was giving an example
+17:26:52 <banas> exact value depends on basee_ 's quotes
+17:26:53 <nikam> alright
+17:26:59 <gameface22> banas: bands/stickers?
+17:27:09 <nikam> basee_ : what do you think should be the price?
+17:27:11 <banas> bands are cheap. I think you'll have to put that along with tshirt
+17:27:27 <basee_> -_-
+17:27:45 <gameface22> cool then
+17:27:46 <banas> I think you should be able to get tshirts for 150 a piece if you search around
+17:27:49 <banas> but do it quick
+17:27:54 <nikam> basee_ : quote it soon, its ur job to get the tshirts and band ready for the show
+17:28:00 <basee_> i need to enquire for more cheaper ones with gameface22 n madhusudhanan
+17:28:16 <nikam> when can you tell the price?
+17:28:18 <basee_> yepp
+17:28:24 <banas> yep, go to Tirupur man. that's where the stuff is
+17:28:25 <basee_> next meetup frm colg
+17:28:29 <basee_> dat is next week
+17:28:39 <banas> madhu went last time.
+17:28:40 <basee_> lets put it on thursday eve 24th
+17:28:42 <basee_> fyn all??
+17:28:56 <brooklyn> anybody here knows madan raj well enough?
+17:29:04 <banas> unless they make me run for some kind of placement, works for me
+17:29:06 <basee_> yeah
+17:30:09 <nikam> so deadline to decide the amount is 24th august, basee_ takes care of the money, tshirt, bands! That's his job for 12th august!
+17:30:13 <brooklyn> well,he s our batchmate, so we can ask him on cost price
+17:30:41 <brooklyn> his dad owns textile mills
+17:31:03 <brooklyn> hello, i was telling about getting t shirts for cheaper rates
+17:31:30 <nikam> yes, we can ask him on 23rd or once college re opens?
+17:31:36 <banas> brooklyn: do you know him?
+17:31:46 <brooklyn> not well enough actually
+17:32:03 <brooklyn> he preety open minded
+17:32:09 <banas> cool, keep a watch on who he hangs out with, then strike ;)
+17:32:18 <brooklyn> he got his friends' uniforms made
+17:32:36 <banas> #topic Events for Induction
+17:34:54 <brooklyn> actually , my roomate is kinda tight with him
+17:34:56 <banas> brooklyn: cool! try talking to him!
+17:34:56 <nikam> we need two people to get in touch with our super seniors and interview them
+17:34:56 <nikam> volunteers?
+17:34:56 <brooklyn> ya , but then ppl started making hate groups for him, so now i am not sure of the situation
+17:34:56 <nikam> mone, ravi_ , Sriram, gameface22 ?
+17:34:56 <ravi_> ?
+17:34:56 <gameface22> Yes. Go on.Will decide topics for stage performances.
+17:34:56 <basee_> brooklyn i knw him daa
+17:34:57 <gameface22> nikam: I will talk with gameface about this?
+17:34:57 <nikam> banas: Whom should we interview? 2 peple are more than enough for 10 minutes
+17:35:14 <brooklyn> cool, but do u know him well enough, cos else he may not , u understand right
+17:35:14 <banas> I vote for Anirudh and Yeswanth
+17:35:15 <gameface22> ^I mean Vinith
+17:35:22 <basee_> wat abt ahuja n his play?
+17:35:26 <nikam> wait
+17:35:34 <nikam> let this get over?
+17:36:16 <basee_> brooklyn ookk
+17:36:16 <nikam> I feel vinith will be great, + maybe anirudh or yeshwanth?
+17:36:16 <banas> basee_: later
+17:36:21 <gameface22> nikam: +1
+17:36:36 <gameface22> but banas knows better about super seniors
+17:36:36 <banas> I'll see and speak to Yeswanth if he can make it to the event in person.
+17:36:52 <brooklyn> arrey why not first we ask all three, what say?
+17:37:05 <banas> One of you co-ordinate this with me, I'll put you in touch with them.
+17:37:27 <nikam> That will be awesome!!
+17:37:27 <nikam> he can give a short speech, and we'll felicitate him
+17:37:38 <brooklyn> ya i can help
+17:37:44 <nikam> gameface22, will you?
+17:37:48 <gameface22> Sarup will talk with Yesh and Anirudh
+17:37:54 <banas> I couldn't give him a tshirt last time, so if you guys can, I'd be proud :)
+17:37:55 <gameface22> I will talk with Vinith
+17:38:27 <banas> #action banas Invite Ani and Yeswanth
+17:38:44 <banas> gameface22: add an action for yourself
+17:39:03 <gameface22> #action gameface22 Invite Vinith
+17:39:28 <banas> good, from next time, everyone who proposes to do something, add an action for yourselves :)
+17:40:03 <banas> brooklyn: leave me a reminder on fb/email and I'll start a conversation
+17:40:06 <nikam> so who takes responsibility for organizing the video chat with super seniors? for 5-10 minutes?
+17:40:25 <banas> #topic Inviting seniors
+17:40:27 <brooklyn> i vote for nikam
+17:40:46 <brooklyn> ;)
+17:41:14 <banas> You could also ask them to talk amongst themselves :D
+17:41:15 <nikam> i am not in this, will not be able to do it.
+17:41:15 <nikam> yeah
+17:41:27 <gameface22> ravi_ will do?
+17:41:40 <ravi_> me!!? na...
+17:42:24 <banas> #idea Remember to not do a live video, internet might be a bummer. Record it
+17:42:31 <nikam> brooklyn: sorry, we'll be already on stage that day, it will like too many places :/
+17:42:48 <brooklyn> cool :)
+17:42:52 <nikam> banas: yeah, we'll record it
+17:43:15 <banas> which reminds me, I have to request you to record the rest of the stuff, but I'll bring it up later
+17:43:16 <brooklyn> yeah, i think ppl otherthan us can also talk and volunteer
+17:43:35 <nikam> gameface22, can you do it? with some one?
+17:43:53 <gameface22> I will ask Vinith about it ;)
+17:44:02 <mone> hmm
+17:44:15 <nikam> no, you need to interview them, in an awesome manner, it'll be fun
+17:44:19 <brooklyn> sriram, vikram, monee, aiswarya?
+17:44:31 <mone> hey
+17:44:39 <sriram> i can't do it alone
+17:44:44 <nikam> you can ask them theri grades, fun experiences, make them tease each other
+17:44:46 <Vikram> monee will do
+17:44:51 <brooklyn> who can interview well here?
+17:44:53 <gameface22> Hi
+17:44:56 <brooklyn> as in humour?
+17:45:07 <brooklyn> talking sense n all?
+17:45:13 <nikam> mone?
+17:45:14 <ravi_> abhijeeth
+17:45:16 <basee_> ask gals
+17:45:16 <ravi_> :p
+17:45:17 <banas> mone: is your nick pronounced similar to "mon" or "mon-e"?
+17:45:21 <sriram> nikam is the best at it
+17:45:30 <brooklyn> yup
+17:45:38 <brooklyn> there i am, woith my point
+17:45:42 <brooklyn> with*
+17:45:44 <mone> it is mon + ne :P
+17:45:45 <gameface22> banas: e-mon
+17:46:04 <brooklyn> its mon-eeeeee
+17:46:09 <basee_> glitterfox   dead??/
+17:46:09 <glitterfox> I don't know.
+17:46:14 <banas> lol ok
+17:46:17 <mone> mon + neeeeeeeee
+17:46:31 <sriram> like naan + eee
+17:46:32 <nikam> LoL, guys - I will be anchoring the show too that day. audience will have too much of me
+17:46:44 <nikam> Sriram: LoL
+17:46:53 <banas> glitterfox: Entertain is "Kajrare, Kajrare, Tere Kaale Kaale Naina"
+17:46:53 <glitterfox> 10-4.
+17:46:55 <brooklyn> ok fine , lets keep it for mon+nay
+17:47:00 <basee_> wa abt ur costume?? :P
+17:47:14 <nikam> tknow shirts? :p
+17:47:17 <brooklyn> we ll go naked, if no money is left
+17:47:23 <sriram> lol
+17:47:25 <gameface22> P
+17:47:26 <basee_> lol
+17:47:28 <gameface22> *PJ
+17:47:29 <mone> lol
+17:47:31 <mone> +1
+17:47:44 <ravi_> lol.
+17:47:44 <banas> Girls are involved, controversial topic, skip ;)
+17:47:53 <gameface22> banas: +1
+17:47:54 <brooklyn> oops
+17:47:59 <ravi_> Ooops.!! aama'la!! +1
+17:48:00 <mone> -1
+17:48:05 <SuriyA_> +1 for that... couldnt even imagine of imagining !
+17:48:05 <basee_> lollll
+17:48:09 <ravi_> lol
+17:48:25 <Vikram> loool
+17:48:32 <brooklyn> actually girl's' left tthe irc long back
+17:48:43 <brooklyn> i mean just the one girl
+17:48:47 <brooklyn> -_-\
+17:49:14 <gameface22> nikam: next topic
+17:49:14 <nikam> okay guys -> who's interviewing? you just have to ask them questions :p
+17:49:15 <brooklyn> ok stop imagining, next topic
+17:49:16 <banas> yeh, but the logs will be public. Last thing we want is that they sue us and the only money we have is gone. Then, we will truly be naked.
+17:49:39 <brooklyn> ok ill interview, if its not a problem?
+17:49:52 <nikam> and anchor on stage?
+17:49:52 <brooklyn> oh ok @banas
+17:50:09 <brooklyn> ya y not we both so that
+17:50:26 <brooklyn> no, we both anchor the recorded think?
+17:50:42 <banas> #info brooklyn and gameface22 work on video with seniors :)
+17:50:47 <brooklyn> what say, if one guy flops, theother can take over
+17:51:01 <gameface22> Yes. +1 for that.
+17:51:07 <mone> +1
+17:51:21 <nikam> ok, gameface22 and brookly do the video!
+17:51:23 <brooklyn> ok cool
+17:51:47 <banas> add yourselves actions about collaborating on what you want to do, both of you
+17:51:56 <brooklyn> #action gameface and brooklyn interview the superseniors
+17:52:05 <mone> how many of them r required
+17:52:07 <banas> #topic Induction Anchors
+17:52:24 <nikam> we need 3 anchors 1 girl and two boys
+17:52:29 <nikam> let me finish
+17:52:37 <SuriyA_> Nikam-sam-Lekha rite /?
+17:52:46 <mone> who is sam
+17:52:50 <nikam> yup, that's what i thought of
+17:52:54 <SuriyA_> Brooklyn,,,,
+17:52:58 <nikam> lemme finish
+17:53:07 <mone> okay fine
+17:53:10 <nikam> mone, do you want to do it?
+17:53:12 <brooklyn> do this '!'
+17:53:29 <basee> up
+17:54:25 <nikam> the video is on what the fark song - google it, see the video
+17:54:25 <brooklyn> hey ya about that
+17:54:25 <gameface22> what the fark
+17:54:35 <mone> fark ???
+17:54:37 <mone> what is it
+17:54:40 <brooklyn> do u think we ll be in amrita after that song thing we are gonna do
+17:55:22 <brooklyn> @ nikam
+17:55:22 <nikam> why not?
+17:55:22 <nikam> if DK BOse can work, why not this? :p
+17:55:23 <brooklyn> because it more or less sounds like fuck
+17:55:30 <nikam> banas: Will you save us? :p
+17:55:32 <brooklyn> which our authorities will not undderstand
+17:56:00 <brooklyn> though personally i think it is the coolest idea
+17:56:47 <brooklyn> the song n all, it can get us a lot of laughs
+17:56:48 <SuriyA_> are u guys gonna sing ??
+17:56:48 * banas wants to play safe so he is granted leaves when he needs it :P
+17:56:48 <nikam> we can put a disclaimer
+17:56:48 <nikam> :p
+17:56:53 <mone> why do we need that song for
+17:56:55 <brooklyn> ya that could save us
+17:57:00 <nikam> our intro
+17:57:12 <gameface22> we don't have better ones?
+17:57:15 <mone> ifor intro what the fark song
+17:57:30 <gameface22> why that song specifically?
+17:57:30 <nikam> we have, i found this funny and awesome - resembling the situation
+17:57:59 <nikam> banas: will it work :p
+17:58:03 <nikam> ??
+17:58:05 <mone> gagnam syle
+17:58:06 <brooklyn> because that song days what the fuck after magically tricking the sensor board
+17:58:11 <basee> !!!
+17:58:11 <glitterfox> Dunno.
+17:58:35 <banas> I haven't heard of i nikam, but you should try!
+17:58:59 <banas> or you can ask glitterfox for suggestions
+17:59:00 <nikam> jsut google na, its only 2 minutes 30 seconds :p
+17:59:00 <banas> glitterfox: Entertain
+17:59:00 <glitterfox> Rumor has it Entertain is Kajrare, Kajrare, Tere Kaale Kaale Naina, banas
+17:59:18 <brooklyn> uh banas, i know u are my senior, so with all due respect, lmgtfy.com :P
+17:59:26 <nikam> -_-
+17:59:43 <nikam> yeah, i want to tell u guys...
+17:59:44 <banas> hehe, my kids are learning :P
+17:59:45 <brooklyn> oops late message
+17:59:57 <nikam> igniterz are ready to perform on that day
+18:00:17 <nikam> so we have one dance item in case we kill the audience
+18:00:22 <banas> nikam: is that a biker group?
+18:00:32 <brooklyn> Lol
+18:00:41 <gameface22> lol
+18:00:44 <brooklyn> nice one, actually ya it is
+18:00:48 <gameface22> banas: dance group
+18:00:49 <nikam> banas: college's one of the best dance group, hip-hop-yo!
+18:01:01 <brooklyn> if u see what they do in a way
+18:01:13 <brooklyn> ya they do look like riding bikes
+18:01:13 <nikam> brooklyn: LoL
+18:01:30 <brooklyn> but ya thats what sells nowadays
+18:01:36 <banas> :D Let's have them!
+18:01:42 <banas> #idea Igniters dance "Maar Daala about college not providing wifi"
+18:01:59 <nikam> :D
+18:02:01 <mone> lilly flower ???
+18:02:09 <brooklyn> YAAY
+18:02:09 <gameface22> enadhu
+18:02:12 <mone> who is that
+18:02:19 <brooklyn> I like the maar dala part
+18:02:29 <lilly_> hiii
+18:02:31 <lilly_> @nikam hii
+18:02:43 <gameface22> glitterfox: who is lilly :P
+18:02:43 <glitterfox> Dunno!
+18:02:45 <ravi_> intro lilly
+18:02:50 <mone> +1
+18:02:53 * banas notices a very enthusiastic flower
+18:03:11 * nikam hides :p
+18:03:18 <SuriyA_> so we are off topic rite ?!
+18:03:19 <SuriyA_> :D !
+18:03:23 <nikam> yeah
+18:03:24 <brooklyn> that is nice, but it should be well disguised so that the amrita ppl dont realise we are talking about wifi
+18:03:35 <nikam> so anchors for the show
+18:03:38 <banas> yep, what is wifi called in sanskrit?
+18:03:43 <nikam> me-sambhav-lekha
+18:03:53 <banas> wait, who's lekha?
+18:03:54 <mone> lol !!!
+18:03:58 <nikam> lekhaa distratcs sambhav on stage and we have some fun
+18:03:58 <brooklyn> i guess we are not called wifi in sanskrit
+18:05:00 <mone> lillyyyyyyyy
+18:05:05 <nikam> and I have contacted one more guy, my class mate - abhishek Boss - he's awesome with on spot comedy, he can kii people with his mockkaai's
+18:05:06 <mone> u there
+18:05:24 <nikam> lilly_ : intro?
+18:05:35 <mone> he /she knows u
+18:05:35 <gameface22> Lilly is from Bangalore
+18:05:36 <brooklyn> i think i could land in the student welfare dept for causing 'unwelfare' on the stage with lekha ? what say nikam?
+18:05:42 <SuriyA_> it is mokkai ! :D !
+18:05:54 * banas observes Monelilly sounds like a good name for a software project
+18:06:01 <nikam> so he'll be in the audience , catching first years in between, or crack some jokes on the anchors to make it more lively
+18:06:10 <mone> lol
+18:06:18 <mone> hehe.....
+18:06:18 * nikam approves :D (y)
+18:06:21 <mone> +1
+18:06:40 <mone> is liilly still there
+18:06:50 <brooklyn> no
+18:06:55 <nikam> no brooklyn: U'll be safe - i hope so :p
+18:06:57 <mone> gone !!1
+18:07:07 <brooklyn> good ur hoping now :p
+18:07:13 <nikam> there... mone's lily leaves :p
+18:07:23 <mone> lillyyyyyyyyyy
+18:07:32 <brooklyn> ok its a guy
+18:07:44 <mone> guyyyyy
+18:07:59 * banas observes both Suriya and Ravi are behind lilly
+18:08:04 <sriram> guys it's getting late
+18:08:14 <lilly_> uhh?
+18:08:21 <basee> check
+18:08:21 <nikam> intro?
+18:08:28 <mone> llilly came back
+18:08:40 <brooklyn> ya intro,(guys backl on track)
+18:08:43 <lilly_> am in cse B
+18:08:44 <mone> where is ravi and surya now
+18:08:45 <lilly_> first year
+18:08:51 <lilly_> nw to second ur
+18:08:53 <mone> first yr
+18:08:54 <lilly_> yr*
+18:09:06 <mone> oh boy /girl
+18:09:06 <lilly_> frm amrita banglore
+18:09:07 <nikam> LoL
+18:09:13 <gameface22> lilly_ uses a cloak +1
+18:09:21 <banas> lol, ok back to next topic
+18:09:23 <lilly_> uhh
+18:09:25 <lilly_> GIRL
+18:09:30 <banas> #topic Ahuja's skit
+18:09:32 <basee> check
+18:09:32 <mone> girllll
+18:09:48 <lilly_> mone h
+18:09:48 <lilly_> uhh
+18:10:00 <mone> it is monn + neeeeeee
+18:10:10 <lilly_> ooh ok
+18:10:19 <brooklyn> mon+nay
+18:10:39 <nikam> guys -> ahuja's skit?
+18:10:46 <brooklyn> is the topic intro over?
+18:10:46 <nikam> is he even doing it??
+18:10:48 <nikam> yes
+18:10:56 <banas> ok, please. get back on track.
+18:11:22 <nikam> we do it on what the fark -> and get expelled
+18:11:23 <brooklyn> somebody check if ahuja is online on facebook
+18:11:31 <brooklyn> ?im not his friend on fb
+18:11:55 <nikam> pinged him
+18:12:00 <brooklyn> nice, we ll ask lilly t oget us admission in bangalore
+18:12:46 <brooklyn> and bangalore has better canteens, with something called as cocacola and pepsi
+18:13:05 <brooklyn> anyways, is ahuja joining us?
+18:13:13 <nikam> nope
+18:13:28 <brooklyn> he s not online?
+18:13:30 <gameface22> yes ahuja said he is planning
+18:13:41 <gameface22> no
+18:13:42 <nikam> if that happens, we can have some funny skit about teachers and students - like we had in our CSE induction?
+18:14:09 <nikam> it was really awesome
+18:14:16 <brooklyn> but im kinda of the feeling that somebody needs to accompany ahuja
+18:14:38 <brooklyn> one skit, one guy, too much workload?
+18:14:50 <gameface22> who will act in the skit
+18:15:04 <mone> r we doing skit
+18:15:10 <brooklyn> probably
+18:15:13 <nikam> yes
+18:15:14 <mone> hmmm
+18:15:23 <nikam> u'll take part?
+18:15:36 <brooklyn> ya , GO Mon+nay
+18:15:41 <mone> ya i can
+18:15:45 <nikam> alright
+18:16:41 <nikam> see, we have couple of good actors in my class, i can help  join you with them
+18:16:55 <brooklyn> but remember, traditionally, skits in amrita has been the cause of boredom unless it s in malayalam, so it should be funny and not mokai, what say guys?
+18:17:04 <mone> okay
+18:17:23 <nikam> you didn't see the last year skit for our induction
+18:17:29 <nikam> it was awesome
+18:17:51 <brooklyn> no actually ,probably cos im in IT dept -_-
+18:18:01 <brooklyn> oh, what was it about?
+18:18:09 <mone> was it abt that interview one
+18:18:14 <mone> ???
+18:19:01 <nikam> yes
+18:19:41 <mone> oh ya that was nice
+18:19:59 <nikam> so mone, will you take the job for the skit? a funnny one, something realetd to viva, ionterview - i'll get u awesome pply for the play
+18:20:36 <gameface22> but once the college starts,you should start working
+18:21:36 <brooklyn> but ahuja 's skit was on a different topic right?
+18:21:36 <mone> abt what
+18:21:36 <mone> we wil see
+18:21:36 <brooklyn> richard stallman
+18:21:36 <basee> ch
+18:21:36 <basee> check
+18:21:51 <brooklyn> i mean are we doing 2 skits here, or is ahuja's skit is not happening?
+18:22:16 <brooklyn> *or is ahuja's skit not happening?
+18:23:15 <nikam> ahuja doesn't seem to be interested
+18:23:16 <nikam> :(
+18:23:16 <nikam> or he's just not active now
+18:23:16 <gameface22> he is not active noe
+18:23:16 <gameface22> now*
+18:23:16 <gameface22> he will be happy to do the skit
+18:23:21 <mone> i think hw is interested
+18:23:38 <mone> ya he will be happy to do
+18:23:38 <brooklyn> ok, i think this one with interviews viva s etc has potential for catching the attention of first years
+18:23:40 <banas> I think he's worked on something as well, call him up sometime
+18:23:57 <banas> just make sure you guys review it, so it isn;t too serious
+18:24:42 <nikam> yeah
+18:24:56 <nikam> no point doing a really serious play
+18:25:02 <brooklyn> +1
+18:25:08 <nikam> if it doesn't happen - mone u take it up
+18:25:13 <brooklyn> no need to do a serious play at all
+18:27:28 <nikam> we need some one to give a talk
+18:27:28 <brooklyn> sarup, ur up
+18:27:28 <nikam> baas: a super senior - if he comes, you or one of us. One talk on tech stuff
+18:27:28 <nikam> *sorry , banas
+18:27:30 <brooklyn> GO banas!!
+18:28:09 <brooklyn> We can even have Adi sir along with banas and yeshwanth if he comes?
+18:28:25 <gameface22> brooklyn: +1
+18:28:33 <banas> I'm sorry guys, I probably won't be around for Induction :(
+18:28:34 <gameface22> Adi sir is really good.
+18:28:59 <banas> But I trust you guys can do a talk easily - enough content delivered walking with you :P
+18:29:14 <gameface22> banas is the expert :P
+18:30:11 <banas> call adi sir
+18:30:28 <banas> #topic Talks
+18:30:29 <nikam> banas - guru _/\_ - ur call , one talk will be enough
+18:30:43 <banas> #action banas Invite Adi sir
+18:31:28 <brooklyn> why we also have a recorded video for banas?
+18:32:01 <brooklyn> im sorry , i mean why not we also have a recorded video for banas?
+18:33:12 <banas> nah dude, please someone else! :P
+18:33:28 <banas> I mean, please, someone else
+18:34:45 <nikam> brooklyn - one talk will be enough, 0. intro video 1. we have a skit 2. a dance 3. a slide thing to cover our activites  4. slide - for why we are awesome than other clubs,
+18:34:45 <nikam> 4. a talk
+18:34:45 <nikam> sorry
+18:34:51 <nikam> 5. recorded chat
+18:34:53 <brooklyn> i think we need an inspirational talk like what adi sir gave instead of a pure tech talk
+18:34:54 <gameface22> 5.things we are doing in the future
+18:34:59 <brooklyn> what say
+18:34:59 <nikam> 6. a tech talk
+18:35:09 <gameface22> and introduction about events
+18:35:09 <nikam> 6 things are enough for an hour
+18:35:33 <brooklyn> i mean they are first years, they may not understand most of it
+18:35:46 <brooklyn> ya 6 things are enough
+18:35:48 <banas> nikam: is it just an hour?
+18:36:05 <nikam> maybe 1 and a half?
+18:36:10 <nikam> depends on the 7 items
+18:36:11 <banas> yeh probably
+18:36:20 <banas> you should have called vipin sir too
+18:36:35 <nikam> 7 will be good -> crisp and quality items
+18:37:05 <nikam> yeah, i dont think what the fark songwill be digested well then
+18:37:14 <brooklyn> actually the slides, intro video,are just fillers man
+18:38:11 <nikam> no, we will be speaking on it! see more the items, it  gets more boring
+18:38:14 <banas> #idea Get people on IRC during the induction is possible, we can then have more people join us from early on
+18:38:21 <brooklyn> the skit, dance, chat, talk are the only main time consuming items
+18:38:47 <banas> I can do the into to foss session on IRC one weekend when many people are on :)
+18:38:49 <gameface22> banas: they won't have laptops
+18:39:09 <brooklyn> ya the irc thing is a great idea, except that few will have smart phones there right?
+18:40:09 <brooklyn> we can have twitter feeds
+18:40:09 <gameface22> smart phones + Internet connection
+18:40:09 <brooklyn> but still depends on no of smart phones
+18:40:09 <gameface22> we will have the IRC part when we conduct workshops
+18:40:09 <banas> yeh, that's one problem - but try to do what you can.
+18:40:13 <banas> might be a bit "involving" for the audience too :)
+18:40:20 <brooklyn> and who all are interested to tweet or text in case the induction is really interesting and eye catching
+18:40:53 <nikam> yes, agreed!
+18:40:54 <nikam> we can include it in our notice too!
+18:41:07 <brooklyn> we can have the tweet or irc part
+18:41:13 <nikam> bring ur smart phones with internet too have some fun :p ?
+18:41:15 <brooklyn> ya we can include, but how
+18:41:55 <brooklyn> ya and then get expelled in the beginning of your college
+18:42:48 <banas> lol
+18:43:08 <brooklyn> remember how we were hunted in first year for having phones which have more than a calling feature
+18:43:39 <nikam> banas: U think we should have more events?
+18:44:11 <nikam> I feel 5-6 good items will be enough to catch them?
+18:44:19 <banas> I don't think you';ll need more events, but you'll need more fillers definitely
+18:44:41 <brooklyn> sorry yaar nikam, but i dont think we can include bringing smart phones formally anywhere in the poster yaar
+18:44:52 <brooklyn> ya i agree
+18:44:52 <nikam> alright!
+18:45:14 <banas> and you really need to focus on "what the club will do" etc, so far most of the focus seems to be around tshirts, funds, and skit :)
+18:45:16 <brooklyn> fillers which actually keep them interested and not flop the show
+18:45:24 <banas> yep
+18:46:08 <brooklyn> the intro video can aim at telling what we and they are here for
+18:46:17 <nikam> some tach ques to give them bands? that boss can catch first years, give hem some task , crack jokes and offer bands?
+18:46:33 <nikam> intro video is the thing
+18:46:43 <nikam> lets c what suriya comes up eith
+18:46:53 <banas> yep
+18:46:54 <brooklyn> by the way, who is the boss?
+18:47:01 <gameface22> Abhishek
+18:47:41 <brooklyn> not ahuja ,but  i dont remember the other abhishek
+18:47:56 <gameface22> He is in my section.
+18:49:01 <nikam> he's good
+18:49:02 <nikam> he can make it lively
+18:49:02 <brooklyn> @ghameface nice description -_-
+18:49:02 <nikam> + we anchors have to be good
+18:49:02 <nikam> really good
+18:49:02 <brooklyn> ya that i wasthinking, HOW?
+18:49:09 <brooklyn> banas??
+18:49:09 <glitterfox> Somebody said banas is akshata's bot, brooklyn
+18:49:32 <nikam> !glitterfox
+18:49:32 <glitterfox> No idea.
+18:49:51 <nikam> why are you here glitterfox?
+18:49:52 <brooklyn> ya glitterfox, i know he has become akshata's bot :P
+18:50:06 <brooklyn> who the fuck cares?
+18:50:18 <brooklyn> glitterfox is entertaining us :P
+18:50:18 <glitterfox> I don't know, brooklyn.
+18:50:22 <nikam> glitterfox love
+18:50:22 <glitterfox> It has been said that love is I love you too, nikam
+18:53:26 <nikam> i love you too glitterfox
+18:53:27 <gameface22> and Malwares :P
+18:53:27 <nikam> -_-
+18:53:27 <brooklyn> ok too much love, back to nusiness
+18:53:27 <brooklyn> business*
+18:53:27 <nikam> so we have the schedule of events and people responsible for them
+18:53:27 <nikam> i'll tell gayatri about the poster
+18:53:27 <nikam> and banners
+18:53:27 <nikam> today's meet was way better
+18:53:27 <brooklyn> i really like the population graph of this irc group :(
+18:53:58 <nikam> its ok, we'll make it better :)
+18:54:04 <banas> oh sorry, I was serving my master for some time :P
+18:54:32 <banas> yeh, get more people guys!
+18:54:32 <brooklyn> ya glitterfox told us
+18:54:32 <brooklyn> @banas
+18:54:32 <banas> do you think more people will turn up from your year soon?
+18:54:39 <banas> oh lol
+18:54:54 <banas> from our year, people actually dropped off in 3rd year
+18:54:58 <brooklyn> i wish i could say yes
+18:55:08 <banas> i trust you guys to continue
+18:55:10 <gameface22> We can attract lots of first years :P
+18:55:20 <brooklyn> we need vipin sir
+18:55:20 <nikam> yes
+18:55:27 <nikam> we have sambhav!
+18:55:38 <nikam> Go brooklyn!!!
+18:55:38 <nikam> :p
+18:56:10 <banas> :D
+18:57:25 <nikam> alright, that's it then
+18:57:25 <brooklyn> -_- sometimes i dont realise if u guys are making fun of me or bloating my ego
+18:57:25 <brooklyn> why cant we ask vipin sir?
+18:57:39 * banas has very unstable internet
+18:57:52 <gameface22> and many girlfriends
+18:58:25 <banas> gameface22: ;)
+18:58:27 <brooklyn> for now he s stuck onto the same one for a bit long
+19:00:28 <banas> btw, have you guys spoken to vipin sir yet?
+19:00:29 <brooklyn> *	for once he s stuck onto the same one for a bit long
+19:00:29 <nikam> no :/
+19:00:29 <gameface22> vipin sir replied to Ravi a month back
+19:00:29 <gameface22> about some training in Amritapuri
+19:00:29 <brooklyn> he told he would make it in the begining of the year
+19:00:36 <brooklyn> if we have an induction, even better
+19:02:45 <banas> ok, Ill start an email thread then
+19:02:45 <banas> hopefully he replied
+19:02:45 <banas> s/replied/replies
+19:02:45 <brooklyn> where is ravi?
+19:02:45 <nikam> any more things to be discussed?
+19:02:55 <banas> think he left
+19:03:00 <banas> should i end meeting?
+19:03:33 <gameface22> Roger that.
+19:03:35 <gameface22> :P
+19:04:50 <nikam> affirmative!
+19:04:50 <banas> #endmeeting
